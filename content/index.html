@@ -1,0 +1,25 @@
+{% extends "_onecol.html" %}
+
+{% block title %}Welcome{% endblock %}
+
+{% block body %}
+<h2>Welcome to SecoAssist website!</h2>
+<p>
+  Short description here. 
+</p>
+
+
+<h3>Latest News</h3>
+
+{% set news = load_yaml('news.yaml') %}
+{% for item in (news|sort(reverse=True, attribute='date'))[:5] %}
+<h4>{{ item.title }} <span class="small">{{ item.date.strftime('%A, %B %d, %Y') }}</span></h4>
+<p>
+  {{ item.summary }}
+  {% if item.content %}
+    <span style="white-space: nowrap;">&mdash; <a href="{{ "news.html"|relative }}#n{{ news|length - loop.index }}">read more</a></span> 
+  {% endif %}
+</p>
+{% endfor %}
+
+{% endblock %}
