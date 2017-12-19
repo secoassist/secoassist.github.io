@@ -1,4 +1,4 @@
-# SecoAssist sources
+# SECO-ASSIST sources
 
 [![Build Status](https://travis-ci.org/secoassist/secoassist.github.io.svg?branch=sources)](https://travis-ci.org/secoassist/secoassist.github.io)
 
