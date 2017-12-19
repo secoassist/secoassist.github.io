@@ -34,14 +34,16 @@ footer {
   max-height: 5em;
 }
 
-/* TYPOGRAPHY */
-.brand-blue { color: #0A189C; }
-.brand-red { color: #BF0014;  }
-
 p { 
   text-align: justify;
 }
 
 .invisible {
   visibility: hidden;
+}
+
+.flag-lang {
+  float: left;
+  margin-right: 1em;
+  max-height: 3em;
 }
