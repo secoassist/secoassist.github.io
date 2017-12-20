@@ -1,4 +1,4 @@
-{% extends "_onecol.html" %}
+{% extends "_twocols.html" %}
 
 {% block title %}Welcome{% endblock %}
 
@@ -41,4 +41,11 @@
 </p>
 {% endfor %}
 
+{% endblock %}
+
+
+{% block sidebar %}
+<h2>Latest Tweets</h2>
+<a class="twitter-timeline" data-width="100%" data-height="32em" data-chrome="noheader nofooter transparent" href="https://twitter.com/secoassist">Tweets by @secoassist</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
 {% endblock %}
