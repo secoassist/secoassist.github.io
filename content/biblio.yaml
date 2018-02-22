@@ -1,7 +1,3 @@
-- title: An Empirical Analysis of Technical Lag in npm Package Dependencies
-  authors: A. Zerouali, E. Constantinou, T. Mens, G. Robles, J. Gonzalez-Barahona
-  kind: Paper
-  year: 2018
 - title: An empirical comparison of dependency network evolution in seven software packaging ecosystems
   authors: A. Decan and T. Mens and Ph. Grosjean
   kind: Journal
@@ -9,9 +5,20 @@
   published: Empirical Software Engingeering, Springer
   link: http://rdcu.be/GIkv
   link2: https://doi.org/10.1007/s10664-017-9589-y
+- title: An Empirical Analysis of Technical Lag in npm Package Dependencies
+  authors: A. Zerouali, E. Constantinou, T. Mens, G. Robles, J. Gonzalez-Barahona
+  kind: Article
+  published: Proceedings International Conference on Software Reuse (ICSR 2018)
+  year: 2018
 - title: A Generalized Model for Visualizing Library Popularity, Adoption and Diffusion within a Software Ecosystem 
   authors: Raula Gaikovina Kula, Coen De Roover, Daniel German, Takashi Ishio and Katsuro Inoue 
   kind: Article
   year: 2018
   published: Proceedings of the 25th International Conference on Software Analysis, Evolution and Reengineering (SANER 2018), Campobasso (Italy)
   link: http://soft.vub.ac.be/Publications/2018/vub-soft-tr-18-01.pdf
+- title: La sant&eacute; des &eacute;cosyst&egrave;mes des logiciels open source
+  authors: T. Mens
+  kind: Presentation
+  year: 2018
+  published: FNRS Science Club, 22 February 2018
+  link: https://www.slideshare.net/tommens/la-sant-des-cosystmes-des-logiciels-open-source
