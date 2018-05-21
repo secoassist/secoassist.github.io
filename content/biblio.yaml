@@ -10,6 +10,7 @@
   kind: Article
   published: Proceedings International Conference on Software Reuse (ICSR 2018)
   year: 2018
+  link: https://doi.org/10.1007/978-3-319-90421-4_6
 - title: A Generalized Model for Visualizing Library Popularity, Adoption and Diffusion within a Software Ecosystem 
   authors: Raula Gaikovina Kula, Coen De Roover, Daniel German, Takashi Ishio and Katsuro Inoue 
   kind: Article
@@ -20,7 +21,13 @@
   authors: A. Decan, T. Mens and E. Constantinou
   kind: Article
   year: 2018
-  published: International Conference on Mining Software Repositories, Gothenburg, Sweden  
+  published: International Conference on Mining Software Repositories, Gothenburg, Sweden
+- title: Big Data Analytics of Software Ecosystem Health
+  authors: T. Mens
+  kind: Presentation
+  year: 2018
+  published: INFORTECH Scientific Day, UMONS, 23 May 2018
+  link: https://www.slideshare.net/tommens/software-ecosystems-big-data
 - title: La sant&eacute; des &eacute;cosyst&egrave;mes des logiciels open source
   authors: T. Mens
   kind: Presentation
