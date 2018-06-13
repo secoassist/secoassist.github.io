@@ -8,9 +8,15 @@
 - title: On the evolution of technical lag in the npm package dependency network
   authors: A. Decan, T. Mens, E. Constantinou
   kind: Article
-  published: Proceedings International Conference on Software Maintenance and Evolution (ICSME 2018)
+  published: 34th IEEE International Conference on Software Maintenance and Evolution (ICSME 2018)
   year: 2018
   link: https://arxiv.org/abs/1806.01545
+- title: On the impact of security vulnerabilities in the npm package dependency network
+  authors: A. Decan, T. Mens and E. Constantinou
+  kind: Article
+  year: 2018
+  published: International Conference on Mining Software Repositories, Gothenburg, Sweden
+  link: http://applications.umons.ac.be/docnum/c7b423fd-d183-486c-9cec-966066b9b364/C9345D51-B92C-4551-BF50-1FA8CF0A6691/paper.pdf
 - title: An Empirical Analysis of Technical Lag in npm Package Dependencies
   authors: A. Zerouali, E. Constantinou, T. Mens, G. Robles, J. Gonzalez-Barahona
   kind: Article
@@ -23,17 +29,6 @@
   year: 2018
   published: Proceedings of the 25th International Conference on Software Analysis, Evolution and Reengineering (SANER 2018), Campobasso (Italy)
   link: http://soft.vub.ac.be/Publications/2018/vub-soft-tr-18-01.pdf
-- title: On the impact of security vulnerabilities in the npm package dependency network
-  authors: A. Decan, T. Mens and E. Constantinou
-  kind: Article
-  year: 2018
-  published: International Conference on Mining Software Repositories, Gothenburg, Sweden
-  link: http://applications.umons.ac.be/docnum/c7b423fd-d183-486c-9cec-966066b9b364/C9345D51-B92C-4551-BF50-1FA8CF0A6691/paper.pdf
-- title: On the evolution of technical lag in the npm package dependency network
-  authors: A. Decan, T. Mens and E. Constantinou
-  kind: Article
-  year: 2018
-  published: 34th IEEE International Conference on Software Maintenance and Evolution (ICSME), Madrid, Spain, 2018
 - title: Big Data Analytics of Software Ecosystem Health
   authors: T. Mens
   kind: Presentation
