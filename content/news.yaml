@@ -1,3 +1,7 @@
+- title: Presentation of npm software ecosystem health at Drupal Camp Belgium
+  date: 2018-11-24
+  summary: |
+    <p>[<a href="https://www.slideshare.net/tommens/on-the-health-of-the-npm-packaging-ecosystem">Slides</a>] Like many other web-based frameworks, Drupal is increasingly relying on JavaScript libraries (such as React, Node.JS, Angular and many more) for improving its user experience. However, relying on such JavaScript libraries implies a significant risk of breaking or compromising your applications. To illustrate this, we present a series of empirical results on the health of the npm dependency network for JavaScript packages. Our findings based on a historical data analysis show that the npm package ecosystem suffers from a range of important technical health issues related to how its dependency network is structured and evolves over time. Examples of such issues include the exponential growth of npm, the huge number of transitive dependencies, the abundance of outdated dependencies, and the long time it takes to fix security vulnerabilities and to benefit from these fixes in dependent packages. We provide empirical evidence of these problems, and suggest ways to reduce their potential impact by providing concrete guidelines.</p>
 - title: Press release on Daily Science website about SECOHealth
   date: 2018-03-12
   summary: |
