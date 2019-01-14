@@ -32,6 +32,7 @@
 - title: "SQLInspect: a static analyzer to inspect database usage in Java applications"
   authors: Csaba Nagy and Anthony Cleve
   kind: Article
+  year: 2018
   published: ICSE'18 Proceedings of the 40th International Conference on Software Engineering
   link: https://dl.acm.org/citation.cfm?doid=3183440.3183496
 - title: On the health of the npm packaging ecosystem
