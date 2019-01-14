@@ -29,6 +29,11 @@
   year: 2018
   published: Proceedings of the 25th International Conference on Software Analysis, Evolution and Reengineering (SANER 2018), Campobasso (Italy)
   link: http://soft.vub.ac.be/Publications/2018/vub-soft-tr-18-01.pdf
+- title: "SQLInspect: a static analyzer to inspect database usage in Java applications"
+  authors: Csaba Nagy and Anthony Cleve
+  kind: Article
+  published: ICSE'18 Proceedings of the 40th International Conference on Software Engineering
+  link: https://dl.acm.org/citation.cfm?doid=3183440.3183496
 - title: On the health of the npm packaging ecosystem
   authors: Tom Mens
   kind: Presentation
