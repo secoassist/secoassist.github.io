@@ -32,6 +32,7 @@
   kind: Article
   year: 2019
   published: 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering
+  link: https://arxiv.org/abs/1901.04217
 - title: An empirical comparison of dependency network evolution in seven software packaging ecosystems
   authors: Alexandre Decan and Tom Mens and Philippe Grosjean
   kind: Journal
