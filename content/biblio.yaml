@@ -4,6 +4,12 @@
   year: 2019
   published: Wiley Journal on Software Evolution and Process
   link: https://doi.org/10.1002/smr.2157
+- title: "How to increase the technical health of your software?"
+  authors: Tom Mens
+  kind: Presentation
+  year: 2019
+  published: Business and Technology Club, InfoPole Cluster TIC, 19 February 2019, CETIC, Gosselies
+  link: https://www.slideshare.net/tommens/how-to-increase-the-technical-health-of-your-software
 - title: "Software Ecosystem Health"
   authors: Tom Mens
   kind: Presentation
