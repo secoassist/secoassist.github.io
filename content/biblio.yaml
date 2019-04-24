@@ -27,7 +27,7 @@
   kind: Article
   year: 2019
   published: 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering
-- title: ConPan: A Tool to Analyze Packages in Software Containers
+- title: "ConPan: A Tool to Analyze Packages in Software Containers"
   authors: Ahmed Zerouali, Valerio Cosentino, Jesus M. Gonzalez-Barahona, Gregorio Robles, Tom Mens
   kind: Article
   year: 2019
