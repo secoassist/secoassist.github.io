@@ -27,6 +27,11 @@
   kind: Article
   year: 2019
   published: 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering
+- title: ConPan: A Tool to Analyze Packages in Software Containers
+  authors: Ahmed Zerouali, Valerio Cosentino, Jesus M. Gonzalez-Barahona, Gregorio Robles, Tom Mens
+  kind: Article
+  year: 2019
+  published: Mining Software Repositories 2019
 - title: "On the Diversity of Software Package Popularity Metrics: An Empirical Study of npm"
   authors: Ahmed Zerouali, Tom Mens, Gregorio Robles and Jesus M. Gonzalez-Barahona
   kind: Article
