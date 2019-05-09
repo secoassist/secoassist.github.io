@@ -4,6 +4,18 @@
   year: 2019
   published: Wiley Journal on Software Evolution and Process
   link: https://doi.org/10.1002/smr.2157
+- title: "On the impact of code smells on the energy consumption of mobile applications"
+  authors: Fabio Palomba, Dario Di Nucci, Annibale Panichella, Andy Zaidman, and Andrea De Lucia
+  kind: Journal
+  year: 2019
+  published: Information and Software Technology
+  link: https://www.sciencedirect.com/science/article/pii/S0950584918301678
+- title: "Omniscient devops analytics"
+  authors: Damian Andrew Tamburri, Dario Di Nucci, Lucio Di Giacomo, and Fabio Palomba
+  kind: Journal
+  year: 2019
+  published: Software Engineering Aspects of Continuous Development and New Paradigms of Software Production and Deployment
+  link: https://link.springer.com/chapter/10.1007/978-3-030-06019-0_4
 - title: "How to increase the technical health of your software?"
   authors: Tom Mens
   kind: Presentation
@@ -45,12 +57,24 @@
   published: Empirical Software Engingeering, Springer
   link: http://rdcu.be/GIkv
   link2: https://doi.org/10.1007/s10664-017-9589-y
+- title: "A test case prioritization genetic algorithm guided by the hypervolume indicator"
+  authors: Dario Di Nucci, Annibale Panichella, Andy Zaidman, and Andrea De Lucia
+  kind: Journal
+  year: 2018
+  published: IEEE Transactions on Software Engineering
+  link: https://ieeexplore.ieee.org/abstract/document/8453036
 - title: On the evolution of technical lag in the npm package dependency network
   authors: Alexandre Decan, Tom Mens, Eleni Constantinou
   kind: Article
   published: 34th IEEE International Conference on Software Maintenance and Evolution (ICSME 2018)
   year: 2018
   link: https://arxiv.org/abs/1806.01545
+- title: "Do developers update third-party libraries in mobile apps?"
+  authors: Pasquale Salza, Fabio Palomba, Dario Di Nucci, Cosmo D’Uva, Andrea De Lucia, and Filomena Ferrucci
+  kind: Article
+  year: 2018
+  published: IEEE/ACM 26th International Conference on Program Comprehension, Gothenburg, Sweden 
+  link: https://dl.acm.org/citation.cfm?id=3196341
 - title: On the impact of security vulnerabilities in the npm package dependency network
   authors: Alexandre Decan, Tom Mens and Eleni Constantinou
   kind: Article
@@ -63,6 +87,12 @@
   published: Proceedings International Conference on Software Reuse (ICSR 2018)
   year: 2018
   link: https://doi.org/10.1007/978-3-319-90421-4_6
+- title: Detecting code smells using machine learning techniques Are we there yet?
+  authors: Dario Di Nucci, Fabio Palomba, Damian Andrew Tamburri, Alexander Serebrenik, and Andrea De Lucia
+  kind: Article
+  year: 2018
+  published: Proceedings of the 25th International Conference on Software Analysis, Evolution and Reengineering (SANER 2018), Campobasso (Italy)
+  link: https://doi.org/10.1109/SANER.2018.8330266
 - title: A Generalized Model for Visualizing Library Popularity, Adoption and Diffusion within a Software Ecosystem 
   authors: Raula Gaikovina Kula, Coen De Roover, Daniel German, Takashi Ishio and Katsuro Inoue 
   kind: Article
