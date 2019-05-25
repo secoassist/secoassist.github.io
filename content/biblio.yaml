@@ -2,6 +2,7 @@
   published: Invited Talk at Concordia University, 24 May 2019, Montreal, Canada
   authors: Tom Mens, Eleni Constantinou
   kind: Presentation
+  year: 2019
   link: https://www.slideshare.net/tommens/empirically-analysing-the-sociotechnical-health-of-software-package-managers
 - title: "A Formal Framework for Measuring Technical Lag in Component Repositories - and its Application to npm"
   authors: Ahmed Zerouali, Tom Mens, Jesus M. Gonzalez-Barahona, Alexandre Decan, Eleni Constantinou, Gregorio Robles
