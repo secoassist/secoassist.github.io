@@ -21,6 +21,12 @@
   year: 2019
   published: Software Engineering Aspects of Continuous Development and New Paradigms of Software Production and Deployment
   link: https://link.springer.com/chapter/10.1007/978-3-030-06019-0_4
+- title: What do package dependencies tell us about semantic versioning?
+  kind: Journal
+  year: 2019
+  published: IEEE Transactions on Software Engineering (10.1109/TSE.2019.2918315)
+  link: https://ieeexplore.ieee.org/document/8721084
+  link2: https://decan.lexpage.net/files/TSE-2019.pdf
 - title: "How to increase the technical health of your software?"
   authors: Tom Mens
   kind: Presentation
