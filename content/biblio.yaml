@@ -1,9 +1,3 @@
-- title: "On the abandonment and survival of open source projects: An empirical investigation"
-  authors: Guilherme Avelino, Eleni Constantinou, Marco Tulio Valente, Alexander Serebrenik
-  kind: Article
-  year: 2019
-  published: International Symposium on Empirical Software Engineering and Measurement, Porto de Galinhas, Brazil
-  link: 
 - title: "Empirically Analysing the Socio-Technical Health of Software Package Managers"
   published: Invited Talk at Concordia University, 24 May 2019, Montreal, Canada
   authors: Tom Mens, Eleni Constantinou
@@ -46,6 +40,12 @@
   year: 2019
   published: Lightning talk at CHAOSSCon Europe, 1 February 2019, Brussels, Belgium
   link: https://www.slideshare.net/tommens/software-ecosystem-health-lightning-talk
+- title: "On the abandonment and survival of open source projects: An empirical investigation"
+  authors: Guilherme Avelino, Eleni Constantinou, Marco Tulio Valente, Alexander Serebrenik
+  kind: Article
+  year: 2019
+  published: International Symposium on Empirical Software Engineering and Measurement, Porto de Galinhas, Brazil
+  link: 
 - title: "On the Relation between Outdated Docker Containers, Severity Vulnerabilities, and Bugs"
   authors: Ahmed Zerouali, Tom Mens, Gregorio Robles and Jesus M. Gonzalez-Barahona
   kind: Article
@@ -107,7 +107,7 @@
   published: Proceedings International Conference on Software Reuse (ICSR 2018)
   year: 2018
   link: https://doi.org/10.1007/978-3-319-90421-4_6
-- title: Detecting code smells using machine learning techniques Are we there yet?
+- title: "Detecting code smells using machine learning techniques: Are we there yet?"
   authors: Dario Di Nucci, Fabio Palomba, Damian Andrew Tamburri, Alexander Serebrenik, and Andrea De Lucia
   kind: Article
   year: 2018
