@@ -1,14 +1,3 @@
-- title: "A Longitudinal Analysis of Bug Handling Across Eclipse Releases"
-  published: 35th IEEE International Conference on Software Maintenance and Evolution 
-  authors: Zeinab Abou Khalil, Eleni Constantinou, Tom Mens, Laurence Duchien, Clement Quinton
-  kind: Article
-  year: 2019
-- title: "Empirically Analysing the Socio-Technical Health of Software Package Managers"
-  published: Invited Talk at Concordia University, 24 May 2019, Montreal, Canada
-  authors: Tom Mens, Eleni Constantinou
-  kind: Presentation
-  year: 2019
-  link: https://www.slideshare.net/tommens/empirically-analysing-the-sociotechnical-health-of-software-package-managers
 - title: "A Formal Framework for Measuring Technical Lag in Component Repositories - and its Application to npm"
   authors: Ahmed Zerouali, Tom Mens, Jesus M. Gonzalez-Barahona, Alexandre Decan, Eleni Constantinou, Gregorio Robles
   kind: Journal
@@ -28,23 +17,12 @@
   published: Software Engineering Aspects of Continuous Development and New Paradigms of Software Production and Deployment
   link: https://link.springer.com/chapter/10.1007/978-3-030-06019-0_4
 - title: What do package dependencies tell us about semantic versioning?
+  authors: Alexandre Decan, Tom Mens
   kind: Journal
   year: 2019
   published: IEEE Transactions on Software Engineering (10.1109/TSE.2019.2918315)
   link: https://ieeexplore.ieee.org/document/8721084
   link2: https://decan.lexpage.net/files/TSE-2019.pdf
-- title: "How to increase the technical health of your software?"
-  authors: Tom Mens
-  kind: Presentation
-  year: 2019
-  published: Business and Technology Club, InfoPole Cluster TIC, 19 February 2019, CETIC, Gosselies
-  link: https://www.slideshare.net/tommens/how-to-increase-the-technical-health-of-your-software
-- title: "Software Ecosystem Health"
-  authors: Tom Mens
-  kind: Presentation
-  year: 2019
-  published: Lightning talk at CHAOSSCon Europe, 1 February 2019, Brussels, Belgium
-  link: https://www.slideshare.net/tommens/software-ecosystem-health-lightning-talk
 - title: "On the abandonment and survival of open source projects: An empirical investigation"
   authors: Guilherme Avelino, Eleni Constantinou, Marco Tulio Valente, Alexander Serebrenik
   kind: Article
@@ -75,6 +53,29 @@
   year: 2019
   published: 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering
   link: https://arxiv.org/abs/1901.04217
+- title: "A Longitudinal Analysis of Bug Handling Across Eclipse Releases"
+  published: 35th IEEE International Conference on Software Maintenance and Evolution 
+  authors: Zeinab Abou Khalil, Eleni Constantinou, Tom Mens, Laurence Duchien, Clement Quinton
+  kind: Article
+  year: 2019
+- title: "How to increase the technical health of your software?"
+  authors: Tom Mens
+  kind: Presentation
+  year: 2019
+  published: Business and Technology Club, InfoPole Cluster TIC, 19 February 2019, CETIC, Gosselies
+  link: https://www.slideshare.net/tommens/how-to-increase-the-technical-health-of-your-software
+- title: "Software Ecosystem Health"
+  authors: Tom Mens
+  kind: Presentation
+  year: 2019
+  published: Lightning talk at CHAOSSCon Europe, 1 February 2019, Brussels, Belgium
+  link: https://www.slideshare.net/tommens/software-ecosystem-health-lightning-talk
+- title: "Empirically Analysing the Socio-Technical Health of Software Package Managers"
+  published: Invited Talk at Concordia University, 24 May 2019, Montreal, Canada
+  authors: Tom Mens, Eleni Constantinou
+  kind: Presentation
+  year: 2019
+  link: https://www.slideshare.net/tommens/empirically-analysing-the-sociotechnical-health-of-software-package-managers  
 - title: An empirical comparison of dependency network evolution in seven software packaging ecosystems
   authors: Alexandre Decan and Tom Mens and Philippe Grosjean
   kind: Journal
