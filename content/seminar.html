@@ -1,0 +1,136 @@
+{% extends "_onecol.html" %}
+
+{% block title %}SECO-ASSIST Research Seminar{% endblock %}
+
+{% block body %}
+<h2>SECO-ASSIST Research Seminar</h2>
+
+<h3>Important information</h3>
+
+<div class="panel panel-primary">
+    <div class="panel-body">
+        SECO-ASSIST Research Seminar<br/>
+        Wednesday 4 September 2019<br/>
+        University of Mons, Belgium<br/>
+        Room Vesale 030<br/>
+        
+        <p>
+            <strong>INSTRUCTIONS TO ACCESS THE CAMPUS, BUILDING AND ROOM HERE</strong>
+        </p>
+        
+        <p>
+            Attendance is free, but registration is required.<br/>
+            Please fill in the registration form below: <strong>ADD LINK TO REGISTRATION FORM</strong>
+        </p>
+    </div>
+</div>
+
+<h3>Schedule</h3>
+
+
+<table class="table">
+    <tr class="active">
+        <th>09:30</th>
+        <td><strong>Welcome</strong></td>
+    </tr>
+    
+    <tr>
+        <th>10:00</th>
+        <td>
+            <p>
+                <strong>Gender in open-source software development</strong><br/>
+                Alexander Serebrenik (Technical University of Eindhoven, Netherlands)
+            </p>
+            <p>
+                This talk provides a brief overview of several recent studies of gender and gender diversity in software development teams. Some of the main findings are that more gender-diverse software teams are more productive and less likely to exhibit suboptimal communication patterns. In addition, social capital obtained by collaborating on open source projects is beneficial for duration of engagement in an open source project. Involvement in very different projects is also beneficial for people of all genders, and more so for women than for men.
+            </p>
+        </td>
+    </tr>
+    
+    <tr>
+        <th>11:00</th>
+        <td>
+            <p>
+                <strong>TOPIC TO BE DETERMINED</strong><br/>
+                Anthony Cleve (University of Namur, Belgium)
+            </p>
+            <p>
+                <!-- summary here -->
+            </p>
+        </td>
+    </tr>
+    
+    <tr class="active">
+        <th>12:00</th>
+        <td>
+            <p>
+                <strong>Lunch break</strong>
+            </p>
+            <p>
+                Free sandwiches and drinks for registered attendants.
+            </p>
+        </td>
+    </tr>
+    
+    <tr>
+        <th>13:00</th>
+        <td>
+            <p>
+                <strong>TOPIC TO BE DETERMINED</strong><br/>
+                Jesus Gonzalez-Barahona (Universidad Rey Juan Carlos, Madrid, Spain)
+            </p>
+            <p>
+                <!-- summary here -->
+            </p>
+        </td>
+    </tr>
+    
+    <tr>
+        <th>14:00</th>
+        <td>
+            <p>
+                <strong>Testing Research in Software Ecosystems</strong><br/>
+                Henrique Rocha (Universiteit Antwerpen, Belgium)
+            </p>
+            <p>
+                This talk shows the research conducted on software testing at LORE (lab on reengineering) in UAntwerpen. First, we explain important state-of-the-art testing techniques such as Mutation Testing, Test Amplification, and Test Transplantation. We show the results, opportunities, and challenges for the current testing research in ecosystems. Finally, we present other research projects related to open source software and software ecosystems.
+            </p>
+        </td>
+    </tr>
+    
+    <tr class="active">
+        <th>15:00</th>
+        <td><strong>Coffee break</strong></td>
+    </tr>
+    
+    <tr>
+        <th>16:00</th>
+        <td>
+            <p>
+                <strong>Public defence of PhD dissertation entitled <emph>A Measurement Framework for Analyzing Technical Lag in Open-Source Software Ecosystems</emph></strong><br/>
+                Ahmed Zerouali (University of Mons, Belgium)
+            </p>            
+            <p>
+                Advisor: Tom Mens<br/>
+                Jury members: Olivier Delgrange, Alexandre Decan, Jesus Gonzalez-Barahona, Alexander Serebrenik
+            </p>
+            <p>
+                Software development practices have evolved quite a lot since the early days of programming. Most open source software projects today are using distributed versioning development practices.They heavily rely on reusing external software packages, to realize part of their functionality, rather than needing to implement these functionalities themselves. Reusable open source software components for major programming languages and operating systems are stored in public package repositories where they are developed and evolved together within the same environment. Developers rely on package management tools to automate deployments, specifying which package releases satisfy the needs of their applications. However, these specifications may lead to deploying package releases that are outdated or otherwise undesirable because they do not include bug fixes, security fixes, or new functionality. In contrast, automatically updating to a more recent release may introduce incompatibility issues. While this delicate problem is important at the level of individual packages, it becomes even more relevant at the level of large distributions of software packages where packages depend, directly or indirectly, on a large number of other packages.
+            </p>
+            <p>
+                The goal of this PhD dissertation is to capture and quantify this delicate balance between the need of updating to the ideal release and the risk of having breaking changes. We formalize a generic model of technical lag, a concept that quantifies to which extent a deployed collection of components is outdated with respect to the ideal deployment. Then, we show how to operationalise this model for different case studies and we empirically analyze its evolution in npm, Debian and Docker ecosystems. Finally, we develop a tool to support Docker deployers in assessing the health of the software included in their containers.
+            </p>
+        </td>
+    </tr>
+    
+    <tr class="active">
+        <th>17:45</th>
+        <td>
+          <p><strong>Closing Reception </strong></p>
+          <p>Free drinks for registered participants.</p>
+        </td>
+    </tr>
+</table>
+
+
+{% endblock %}
