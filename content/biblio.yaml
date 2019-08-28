@@ -58,6 +58,12 @@
   authors: Zeinab Abou Khalil, Eleni Constantinou, Tom Mens, Laurence Duchien, Clement Quinton
   kind: Article
   year: 2019
+- title: "Analysing Socio-technical Congruence in the Package Dependency Network of Cargo"
+  authors: Mehdi Golzadeh
+  published: ESEC/FSE 2019 Student Research Competition - paper, poster and presentation
+  kind: Article
+  year: 2019
+  link: https://doi.org/10.1145/3338906.3342497
 - title: "How to increase the technical health of your software?"
   authors: Tom Mens
   kind: Presentation
