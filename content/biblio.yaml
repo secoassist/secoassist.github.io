@@ -1,3 +1,9 @@
+- title: "A Measurement Framework for Analyzing Technical Lag in Open-Source Software Ecosystems"
+  authors: Ahmed Zerouali
+  kind: PhD Thesis
+  year: 2019
+  published: University of Mons, Belgium, September 4th 2019
+  link: https://github.com/neglectos/PhD_Dissertation/raw/master/PhD_Dissertation.pdf
 - title: "A Formal Framework for Measuring Technical Lag in Component Repositories - and its Application to npm"
   authors: Ahmed Zerouali, Tom Mens, Jesus M. Gonzalez-Barahona, Alexandre Decan, Eleni Constantinou, Gregorio Robles
   kind: Journal
