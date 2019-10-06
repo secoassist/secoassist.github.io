@@ -1,0 +1,30 @@
+{% extends "_onecol.html" %}
+
+{% block title %}A Framework for Measuring Technical Lag{% endblock %}
+
+{% block body %}
+<h2>Measuring Technical Lag of Software</h2>
+
+
+<h3>About Technical Lag</h3>
+
+<h3>Useful References</h3>
+
+<ul>
+<li> <a href="https://scholar.google.com/citations?hl=en&user=B3G003AAAAAJ">Ahmed Zerouali</a>,
+<strong>A Measurement Framework for Analyzing Technical Lag in Open-Source Software Ecosystems</strong><br/>
+<a href="https://github.com/neglectos/PhD_Dissertation/raw/master/PhD_Dissertation.pdf">[PhD Thesis, University of Mons, Belgium]</a><br/>
+Thesis Advisor: <a href="https://scholar.google.com/citations?user=5RJe8dsAAAAJ">Tom Mens</a><br/>
+<p>Abstract: Software development practices have evolved quite a lot since the early days of programming. Most open source software projects today are using distributed versioning development practices.They heavily rely on reusing external software packages, to realize part of their functionality, rather than needing to implement these functionalities themselves. Reusable open source software components for major programming languages and operating systems are stored in public package repositories where they are developed and evolved together within the same environment. Developers rely on package management tools to automate deployments, specifying which package releases satisfy the needs of their applications. However, these specifications may lead to deploying package releases that are outdated or otherwise undesirable because they do not include bug fixes, security fixes, or new functionality. In contrast, automatically updating to a more recent release may introduce incompatibility issues. While this delicate problem is important at the level of individual packages, it becomes even more relevant at the level of large distributions of software packages where packages depend, directly or indirectly, on a large number of other packages.
+The goal of this PhD dissertation is to capture and quantify this delicate balance between the need of updating to the ideal release and the risk of having breaking changes. We formalize a generic model of technical lag, a concept that quantifies to which extent a deployed collection of components is outdated with respect to the ideal deployment. Then, we show how to operationalise this model for different case studies and we empirically analyze its evolution in npm, Debian and Docker ecosystems. Finally, we develop a tool to support Docker deployers in assessing the health of the software included in their containers.</p>
+
+            <p>
+              <a href = "{{ "assets/seminar/Zerouali_public_defense.pdf"|relative }}">Presentation slides</a>
+            </p>
+            <p>
+              <a href = "https://youtu.be/xft-QOIGzdk">Youtube video of the presentation</a>
+            </p>
+</li>
+</ul>
+
+{% endblock %}
