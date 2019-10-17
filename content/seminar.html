@@ -1,6 +1,6 @@
 {% extends "_onecol.html" %}
 
-{% block title %}SECO-ASSIST Research Seminar{% endblock %}
+{% block title %}SECO-ASSIST Research Seminar on Open Source Software Ecosystems{% endblock %}
 
 {% block body %}
 <h2>SECO-ASSIST 2019 Research Seminar</h2>
@@ -29,8 +29,11 @@ Please fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLSckxCdrfxd4CJSi
     <tr class="active">
         <th>09:30</th>
         <td><strong>Welcome</strong></td>
+        <p>
+          <a href="https://www.slideshare.net/tommens/secoassist-2019-research-seminar">Welcome slides</a> by Tom Mens
+        </p>
     </tr>
-    
+
     <tr>
         <th>10:00</th>
         <td>
@@ -38,12 +41,20 @@ Please fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLSckxCdrfxd4CJSi
                 <strong>Gender in open-source software development</strong><br/>
                 <a href="https://www.win.tue.nl/~aserebre/">Alexander Serebrenik</a> (Technical University of Eindhoven, Netherlands)
             </p>
+
             <p>
                 This talk provides a brief overview of several recent studies of gender and gender diversity in software development teams. Some of the main findings are that more gender-diverse software teams are more productive and less likely to exhibit suboptimal communication patterns. In addition, social capital obtained by collaborating on open source projects is beneficial for duration of engagement in an open source project. Involvement in very different projects is also beneficial for people of all genders, and more so for women than for men.
             </p>
+
+            <p>
+              <a href = "{{ "assets/seminar/genderGitHub-MONS.pdf"|relative }}">Presentation slides</a>
+            </p>
+            <p>
+              <a href = "https://youtu.be/pIgkgV0vyuI">Youtube video of the presentation</a>
+            </p>
         </td>
     </tr>
-    
+
     <tr>
         <th>11:00</th>
         <td>
@@ -62,6 +73,13 @@ Please fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLSckxCdrfxd4CJSi
                 The study revealed that mobile developers rarely update libraries, and when they do, they mainly tend to update libraries related to the Graphical User Interface.
                 Avoiding bug propagation and making the app compatible with new Android releases are the top reasons why developers update their libraries.
             </p>
+
+            <p>
+              <a href = "{{ "assets/seminar/When_how_and_why_mobile_app_developers_update_third-party_libraries_they_rely_on.pdf"|relative }}">Presentation slides</a>
+            </p>
+            <p>
+              <a href = "https://youtu.be/Cbc6bWBBJnk">Youtube video of the presentation</a>
+            </p>
         </td>
     </tr>
 
@@ -78,7 +96,7 @@ Please fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLSckxCdrfxd4CJSi
         </td>
     </tr>
 COMMENTED OUT TILL HERE -->
-    
+
     <tr class="active">
         <th>12:00</th>
         <td>
@@ -90,20 +108,39 @@ COMMENTED OUT TILL HERE -->
             </p>
         </td>
     </tr>
-    
+
     <tr>
         <th>13:00</th>
         <td>
             <p>
-                <strong>TOPIC TO BE DETERMINED</strong><br/>
-                <a href="https://gsyc.urjc.es/~jgb/">Jesus Gonzalez-Barahona</a> (Universidad Rey Juan Carlos, Madrid, Spain)
+                <strong>Mining software repositories in times of GDPR</strong><br/>
+                <a href="https://gsyc.urjc.es/~jgb/">Jesus Gonzalez-Barahona</a> (Universidad Rey Juan Carlos, Madrid, Spain)<br/>
             </p>
             <p>
-                <!-- summary here -->
+The EU General Data Protection Regulation (GDPR) and other privacy
+regulations are shaping a new environment for researchers using data
+from publicly available software repositories, be them public or
+private. In addition, other ethical constraints may also apply to
+personal information available from those repositories. However, the
+public nature of many of them, and the interest they have for
+conducting potentially useful empirical research, makes them a very
+special case, which does not seem to be the core case on which
+regulations, and even ethical guidelines, seem to focus. Given
+this situation, this talk will introduce some of the constraints
+that researchers should take into account, outline the open problems
+that lie ahead of us, and discuss ideas on how to build a trustable
+relationship with the FOSS communities that are producing the data
+we use, and making it public for a reason.
+            </p>
+            <p>
+              <a href="https://jgbarah.github.io/presentations/research-privacy/slides.pdf">Presentation slides</a>
+            </p>
+            <p>
+              <a href = "https://youtu.be/IbP6-A76s6A">Youtube video of the presentation</a>
             </p>
         </td>
     </tr>
-    
+
     <tr>
         <th>14:00</th>
         <td>
@@ -114,21 +151,45 @@ COMMENTED OUT TILL HERE -->
             <p>
                 This talk shows the research conducted on software testing at LORE (lab on reengineering) in UAntwerpen. First, we explain important state-of-the-art testing techniques such as Mutation Testing, Test Amplification, and Test Transplantation. We show the results, opportunities, and challenges for the current testing research in ecosystems. Finally, we present other research projects related to open source software and software ecosystems.
             </p>
+            <p>
+              <a href = "https://youtu.be/ecbEGxfrf1E">Youtube video of the presentation</a>
+            </p>
         </td>
     </tr>
-    
-    <tr class="active">
+
+    <tr>
         <th>15:00</th>
+        <td>
+            <p>
+                <strong>A Longitudinal Analysis of Bug Handling Across Eclipse Releases</strong><br/>
+                <a href="http://researchers.lille.inria.fr/zaboukha/">Zeinab Abou Khalil</a> (University of Mons, Belgium, and University of Lille, France)
+            </p>
+            <p>
+                Abstract : Large open source software projects, like Eclipse, follow a continuous software development process, with a regular release cycle. During each release, new bugs are reported, triaged and resolved. Previous studies have focused on various aspects of bug fixing, such as bug triaging, bug prediction, and bug process analysis. Most studies, however, do not distinguish between what happens before and after each scheduled release. We are also unaware of studies that compare bug fixing activities across different project releases. This paper presents an empirical analysis of the bug handling process of Eclipse over a 15-year period, considering 138K bug reports from Bugzilla, including 16 annual Eclipse releases and two quarterly releases in 2018. We compare the bug resolution rate, the fixing rate, the bug triaging time and the fixing time before and after each release date, and we study the possible impact of "release pressure". Among others, our results reveal that Eclipse bug handling activity is improving over time, with an important decrease in the number of reported bugs before releases, an increase in the bug fixing rate and an increasingly balanced bug handling workload before and after releases. The recent transition from an annual to a quarterly release cycle continued to improve the bug handling process.
+
+                (Paper accepted at ICSME 2019)
+            </p>
+
+            <p>
+              <a href="https://hal.archives-ouvertes.fr/hal-02179172">Paper</a>
+            </p>
+        </td>
+    </tr>
+
+    <tr class="active">
+        <th>15:30</th>
         <td><strong>Coffee break</strong></td>
     </tr>
-    
+
+
     <tr>
         <th>16:00</th>
         <td>
             <p>
                 <strong>A Measurement Framework for Analyzing Technical Lag in Open-Source Software Ecosystems</strong><br/>
-                Public PhD Defense. <a href="https://scholar.google.com/citations?hl=en&user=B3G003AAAAAJ">Ahmed Zerouali</a> (University of Mons, Belgium)
-            </p>            
+                Public PhD Defense. <a href="https://scholar.google.com/citations?hl=en&user=B3G003AAAAAJ">Ahmed Zerouali</a> (University of Mons, Belgium)<br/>
+                <a href="https://github.com/neglectos/PhD_Dissertation/raw/master/PhD_Dissertation.pdf">PhD dissertation</a>
+            </p>
             <p>
                 Advisor: <a href="https://scholar.google.com/citations?user=5RJe8dsAAAAJ">Tom Mens</a><br/>
                 Jury members: Olivier Delgrange, Alexandre Decan, Jesus Gonzalez-Barahona, Alexander Serebrenik
@@ -139,9 +200,16 @@ COMMENTED OUT TILL HERE -->
             <p>
                 The goal of this PhD dissertation is to capture and quantify this delicate balance between the need of updating to the ideal release and the risk of having breaking changes. We formalize a generic model of technical lag, a concept that quantifies to which extent a deployed collection of components is outdated with respect to the ideal deployment. Then, we show how to operationalise this model for different case studies and we empirically analyze its evolution in npm, Debian and Docker ecosystems. Finally, we develop a tool to support Docker deployers in assessing the health of the software included in their containers.
             </p>
+
+            <p>
+              <a href = "{{ "assets/seminar/Zerouali_public_defense.pdf"|relative }}">Presentation slides</a>
+            </p>
+            <p>
+              <a href = "https://youtu.be/xft-QOIGzdk">Youtube video of the presentation</a>
+            </p>
         </td>
     </tr>
-    
+
     <tr class="active">
         <th>17:45</th>
         <td>
