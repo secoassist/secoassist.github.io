@@ -49,11 +49,13 @@
   year: 2019
   published: 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering
   link: https://arxiv.org/abs/1811.12874
-- title: On the Impact of Outdated and Vulnerable Javascript Packages in Docker Images
+  link2: https://doi.org/10.1109/SANER.2019.8668013
+- title: "On the Impact of Outdated and Vulnerable Javascript Packages in Docker Images"
   authors: Ahmed Zerouali, Valerio Cosentino, Tom Mens, Gregorio Robles and Jesus M. Gonzalez-Barahona
   kind: Article
   year: 2019
   published: 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering
+  link: https://doi.org/10.1109/SANER.2019.8667984
 - title: "ConPan: A Tool to Analyze Packages in Software Containers"
   authors: Ahmed Zerouali, Valerio Cosentino, Jesus M. Gonzalez-Barahona, Gregorio Robles, Tom Mens
   kind: Article
@@ -72,6 +74,7 @@
   authors: Zeinab Abou Khalil, Eleni Constantinou, Tom Mens, Laurence Duchien, Clement Quinton
   kind: Article
   year: 2019
+  link: https://doi.org/10.1109/ICSME.2019.00010
 - title: "Analysing Socio-technical Congruence in the Package Dependency Network of Cargo"
   authors: Mehdi Golzadeh
   published: ESEC/FSE 2019 Student Research Competition - paper, poster and presentation
