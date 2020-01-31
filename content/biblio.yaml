@@ -1,3 +1,10 @@
+- title: "Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software"
+  authors: Tom Mens
+  kind: Presentation
+  year: 2020
+  published: CHAOSScon Europe 2020, 31 January 2020, Brussels, Belgium
+  link: https://www.slideshare.net/tommens/measuring-technical-lag-in-software-deployments-chaosscon-2020
+  link2: https://chaoss.community/chaosscon-2020-eu/
 - title: "A Measurement Framework for Analyzing Technical Lag in Open-Source Software Ecosystems"
   authors: Ahmed Zerouali
   kind: PhD Thesis
