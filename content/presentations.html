@@ -1,16 +1,16 @@
 {% extends "_onecol.html" %}
 
-{% block title %}Results{% endblock %}
+{% block title %}Presentations{% endblock %}
 
 {% block body %}
-<h2>Publications</h2>
+<h2>Presentations</h2>
 
 
 {% set biblio = load_yaml('biblio.yaml') %}
 
 {% set last = {'year': -1, 'kind': None} %}
 
-{% for item in biblio|sort(reverse=True, attribute='year')|rejectattr('kind', 'equalto', 'Presentation') %}
+{% for item in biblio|sort(reverse=True, attribute='year')|selectattr('kind', 'equalto', 'Presentation') %}
   {% if last['year'] != item.year %}
     <h3>{{ item.year }} {{ year_last }}</h3>
     {# Ugly hack but it works #}
