@@ -18,6 +18,12 @@
   link: https://www.slideshare.net/tommens/measuring-technical-lag-in-software-deployments-chaosscon-2020
   link2: https://chaoss.community/chaosscon-2020-eu
   link3: https://www.youtube.com/watch?v=aGGhNnaD5iI
+- title: "Test amplification in the pharo smalltalk ecosystem"
+  authors: Mehrdad Abdi, Henrique Rocha, and Serge Demeyer
+  kind: Article
+  year: 2019
+  published: In Proceedings IWST 2019 (International Workshop on Smalltalk Technologies). ESUG, 2019
+  link: https://www.stamp-project.eu/view/Blog/DSpot_Pharo_Smalltalk
 - title: "A Measurement Framework for Analyzing Technical Lag in Open-Source Software Ecosystems"
   authors: Ahmed Zerouali
   kind: PhD Thesis
