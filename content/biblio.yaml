@@ -1,3 +1,10 @@
+- title: "Next Level Test Automation"
+  authors: Serge Demeyer
+  kind: Presentation
+  year: 2020
+  published: VST2020 (3rd Workshop on Validation, Analysis and Evolution of Software Tests). February 18, 2020 | co-located with SANER 2020, London, Ontario, Canada
+  link: https://www.slideshare.net/serge_demeyerUA/keynote-workshop-on-validation-analysis-and-evolution-of-software-tests
+  link2: http://vst2020.scch.at
 - title: "Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software"
   authors: Tom Mens
   kind: Presentation
