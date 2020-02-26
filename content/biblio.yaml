@@ -1,3 +1,8 @@
+- title: "Semi-automatic Test Case Expansion for Mutation Testing "
+  authors: Zhong Xi Lu, Sten Vercammen, and Serge Demeyer
+  kind: Article
+  year: 2020
+  published: VST2020 (3rd Workshop on Validation, Analysis and Evolution of Software Tests). February 18, 2020 | co-located with SANER 2020, London, Ontario, Canada
 - title: "Next Level Test Automation"
   authors: Serge Demeyer
   kind: Presentation
