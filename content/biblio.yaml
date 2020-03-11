@@ -1,3 +1,10 @@
+- title: "GAP: Forecasting Commit Activity in git Projects"
+  authors: Alexandre Decan, Eleni Constantinou, Tom Mens, Henrique Rocha
+  kind: Journal
+  year: 2020
+  published: Journal of Systems and Software, 10.1016/j.jss.2020.110573, 2020
+  link: https://www.sciencedirect.com/science/article/pii/S0164121220300546?via%3Dihub
+  link2: https://decan.lexpage.net/files/JSS-2020.pdf
 - title: "Are the Gas Prices Oracle Reliable? A Case Study using the EthGasStation"
   authors: Guiseppe Antonio Pierro, Henrique Rocha, Roberto Tonelli, and Stéphane Ducasse.
   kind: Article
