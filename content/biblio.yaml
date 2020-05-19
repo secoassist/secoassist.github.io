@@ -1,8 +1,10 @@
-- title: "Adopting Program Synthesis for Test Amplification"
-  authors: Mehrdad Abdi, Henrique Rocha, and Serge Demeyer
-  kind: Article
-  year: 2019
-  published: BENEVOL 2019 (The 18th Belgium-Netherlands Software Evolution Workshop). Brussels, 28/29 November 2019
+- title: "GAP: Forecasting Commit Activity in git Projects"
+  authors: Alexandre Decan, Eleni Constantinou, Tom Mens, Henrique Rocha
+  kind: Journal
+  year: 2020
+  published: Journal of Systems and Software, 10.1016/j.jss.2020.110573, 2020
+  link: https://www.sciencedirect.com/science/article/pii/S0164121220300546?via%3Dihub
+  link2: https://decan.lexpage.net/files/JSS-2020.pdf
 - title: "Are the Gas Prices Oracle Reliable? A Case Study using the EthGasStation"
   authors: Guiseppe Antonio Pierro, Henrique Rocha, Roberto Tonelli, and Stéphane Ducasse.
   kind: Article
@@ -13,6 +15,17 @@
   kind: Article
   year: 2020
   published: VST2020 (3rd Workshop on Validation, Analysis and Evolution of Software Tests). February 18, 2020 | co-located with SANER 2020, London, Ontario, Canada
+- title: How Magic is Zero? An Empirical Analysis of Initial Development Releases in Three Software Package Distributions
+  authors: Alexandre Decan, Tom Mens
+  kind: article
+  year: 2020
+  published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
+  link: https://decan.lexpage.net/files/SOHEAL-2020.pdf
+- title: Bot or not? Detecting bots in GitHub pull request activity based on comment similarity
+  authors: Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
+  kind: article
+  year: 2020
+  published: 2nd International workshop on Bots in Software Engineering (BotSE), Seoul, South Korea, 2020
 - title: "Next Level Test Automation"
   authors: Serge Demeyer
   kind: Presentation
@@ -28,6 +41,17 @@
   link: https://www.slideshare.net/tommens/measuring-technical-lag-in-software-deployments-chaosscon-2020
   link2: https://chaoss.community/chaosscon-2020-eu
   link3: https://www.youtube.com/watch?v=aGGhNnaD5iI
+- title: "Adopting Program Synthesis for Test Amplification"
+  authors: Mehrdad Abdi, Henrique Rocha, and Serge Demeyer
+  kind: Article
+  year: 2019
+  published: BENEVOL 2019 (The 18th Belgium-Netherlands Software Evolution Workshop). Brussels, 28/29 November 2019
+- title: On the Effect of Discussions on Pull Request Decisions
+  authors: Mehdi Golzadeh, Alexandre Decan, Tom Mens
+  kind: article
+  year: 2019
+  published: Proceedings of the 18th Belgium-Netherlands Software Evolution Workshop, Brussels, Belgium, 28-11-2019
+  link: http://ceur-ws.org/Vol-2605/16.pdf
 - title: "Test amplification in the pharo smalltalk ecosystem"
   authors: Mehrdad Abdi, Henrique Rocha, and Serge Demeyer
   kind: Article
@@ -104,6 +128,12 @@
   kind: Article
   year: 2019
   link: https://doi.org/10.1109/ICSME.2019.00010
+- title: "On the Usage of Badges in Open Source Packages on GitHub"
+  authors: Damien Legay, Alexandre Decan, Tom Mens
+  published: Proceedings of the 18th Belgium-Netherlands Software Evolution Workshop, Brussels, Belgium, 28-11-2019
+  kind: Article
+  year: 2019
+  link: http://ceur-ws.org/Vol-2605/16.pdf
 - title: "Analysing Socio-technical Congruence in the Package Dependency Network of Cargo"
   authors: Mehdi Golzadeh
   published: ESEC/FSE 2019 Student Research Competition - paper, poster and presentation
@@ -147,6 +177,12 @@
   published: 34th IEEE International Conference on Software Maintenance and Evolution (ICSME 2018)
   year: 2018
   link: https://arxiv.org/abs/1806.01545
+- title: On the impact of pull request decisionson future contributions
+  authors: Damien Legay, Alexandre Decan, Tom Mens
+  kind: Article
+  published: Proceedings of the 17th Belgium-Netherlands Software Evolution Workshop
+  year: 2018
+  link: http://ceur-ws.org/Vol-2361/short12.pdf
 - title: "Do developers update third-party libraries in mobile apps?"
   authors: Pasquale Salza, Fabio Palomba, Dario Di Nucci, Cosmo D’Uva, Andrea De Lucia, and Filomena Ferrucci
   kind: Article
