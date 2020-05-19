@@ -122,6 +122,11 @@
   authors: Zeinab Abou Khalil, Eleni Constantinou, Tom Mens, Laurence Duchien, Clement Quinton
   kind: Article
   year: 2019
+- title: "On the Usage of Badges in Open Source Packages on GitHub"
+  published: 18th Belgium-Netherlands Software Evolution Workshop 
+  authors: Damien Legay, Alexandre Decan, Tom Mens
+  kind: Article
+  year: 2019
   link: https://doi.org/10.1109/ICSME.2019.00010
 - title: "Analysing Socio-technical Congruence in the Package Dependency Network of Cargo"
   authors: Mehdi Golzadeh
