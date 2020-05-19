@@ -3,6 +3,7 @@
   kind: article
   year: 2019
   published: Proceedings of the 18th Belgium-Netherlands Software Evolution Workshop, Brussels, Belgium, 28-11-2019
+  link: http://ceur-ws.org/Vol-2605/16.pdf
 - title: "GAP: Forecasting Commit Activity in git Projects"
   authors: Alexandre Decan, Eleni Constantinou, Tom Mens, Henrique Rocha
   kind: Journal
