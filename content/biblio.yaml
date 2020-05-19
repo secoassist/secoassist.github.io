@@ -172,6 +172,12 @@
   published: 34th IEEE International Conference on Software Maintenance and Evolution (ICSME 2018)
   year: 2018
   link: https://arxiv.org/abs/1806.01545
+- title: On the impact of pull request decisionson future contributions
+  authors: Damien Legay, Alexandre Decan, Tom Mens
+  kind: Article
+  published: Proceedings of the 17th Belgium-Netherlands Software Evolution Workshop
+  year: 2018
+  link: http://ceur-ws.org/Vol-2361/short12.pdf
 - title: "Do developers update third-party libraries in mobile apps?"
   authors: Pasquale Salza, Fabio Palomba, Dario Di Nucci, Cosmo D’Uva, Andrea De Lucia, and Filomena Ferrucci
   kind: Article
