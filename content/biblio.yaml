@@ -123,6 +123,12 @@
   kind: Article
   year: 2019
   link: https://doi.org/10.1109/ICSME.2019.00010
+- title: "On the Usage of Badges in Open Source Packages on GitHub"
+  authors: Damien Legay, Alexandre Decan, Tom Mens
+  published: Proceedings of the 18th Belgium-Netherlands Software Evolution Workshop, Brussels, Belgium, 28-11-2019
+  kind: Article
+  year: 2019
+  link: http://ceur-ws.org/Vol-2605/16.pdf
 - title: "Analysing Socio-technical Congruence in the Package Dependency Network of Cargo"
   authors: Mehdi Golzadeh
   published: ESEC/FSE 2019 Student Research Competition - paper, poster and presentation
