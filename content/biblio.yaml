@@ -1,3 +1,9 @@
+- title: "Comparing dependency issues across software package distributions"
+  authors: Tom Mens
+  kind: Presentation
+  year: 2020
+  published: Free Open Source Developers Meeting (FOSDEM), Brussels, February 2020
+  link: https://www.slideshare.net/tommens/comparing-dependency-issues-across-software-package-distributions-fosdem-2020
 - title: "GAP: Forecasting Commit Activity in git Projects"
   authors: Alexandre Decan, Eleni Constantinou, Tom Mens, Henrique Rocha
   kind: Journal
