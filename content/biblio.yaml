@@ -27,11 +27,19 @@
   year: 2020
   published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
   link: https://decan.lexpage.net/files/SOHEAL-2020.pdf
+  link2: https://doi.org/10.1145/3387940.3392205
+- title: How Magic is Zero? An Empirical Analysis of Initial Development Releases in Three Software Package Distributions
+  authors: Alexandre Decan, Tom Mens
+  kind: Presentation
+  published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
+  link: https://youtu.be/ZyROwPDIbyA
+  link2: https://www.slideshare.net/tommens/how-magic-is-zero-an-empirical-analysis-of-initial-development-releases-in-software-package-distributions/
 - title: "Bot or not? Detecting bots in GitHub pull request activity based on comment similarity"
   authors: Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
   kind: Article
   year: 2020
   published: 2nd International workshop on Bots in Software Engineering (BotSE), Seoul, South Korea, 2020
+  link: https://doi.org/10.1145/3387940.3391503
 - title: "Bot or not? Detecting bots in GitHub pull request activity based on comment similarity"
   authors: Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
   kind: Presentation
