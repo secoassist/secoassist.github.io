@@ -32,6 +32,7 @@
   authors: Alexandre Decan, Tom Mens
   kind: Presentation
   published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
+  year: 2020
   link: https://youtu.be/ZyROwPDIbyA
   link2: https://www.slideshare.net/tommens/how-magic-is-zero-an-empirical-analysis-of-initial-development-releases-in-software-package-distributions/
 - title: "Bot or not? Detecting bots in GitHub pull request activity based on comment similarity"
@@ -46,6 +47,7 @@
   year: 2020
   published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
   link: https://youtu.be/g___MLv4EvY
+  link2: https://www.slideshare.net/tommens/bot-or-not-detecting-bots-in-github-pull-request-activity-based-on-comment-similarity/
 - title: "Next Level Test Automation"
   authors: Serge Demeyer
   kind: Presentation
