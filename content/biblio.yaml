@@ -21,6 +21,12 @@
   kind: Article
   year: 2020
   published: VST2020 (3rd Workshop on Validation, Analysis and Evolution of Software Tests). February 18, 2020 | co-located with SANER 2020, London, Ontario, Canada
+- title: Mutant Density: A Measure of Fault-Sensitive Complexity
+  authors: Ali Parsai, Serge Demeyer
+  kind: Article
+  year: 2020
+  published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
+  link: https://www.youtube.com/watch?v=zq14pg16uEw
 - title: How Magic is Zero? An Empirical Analysis of Initial Development Releases in Three Software Package Distributions
   authors: Alexandre Decan, Tom Mens
   kind: Article
