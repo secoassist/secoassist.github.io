@@ -21,7 +21,7 @@
   kind: Article
   year: 2020
   published: VST2020 (3rd Workshop on Validation, Analysis and Evolution of Software Tests). February 18, 2020 | co-located with SANER 2020, London, Ontario, Canada
-- title: Mutant Density: A Measure of Fault-Sensitive Complexity
+- title: "Mutant Density: A Measure of Fault-Sensitive Complexity"
   authors: Ali Parsai, Serge Demeyer
   kind: Article
   year: 2020
