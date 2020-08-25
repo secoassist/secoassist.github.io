@@ -54,6 +54,13 @@
   published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
   link: https://youtu.be/g___MLv4EvY
   link2: https://www.slideshare.net/tommens/bot-or-not-detecting-bots-in-github-pull-request-activity-based-on-comment-similarity/
+- title: "On Package Freshness in Linux Distributions"
+  authors: Damien Legay, Alexandre Decan, Tom Mens
+  kind: Article
+  year: 2020
+  published: 36th International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia (virtual), 2020
+  year: 2020
+  link: https://arxiv.org/pdf/2007.16123.pdf
 - title: "Next Level Test Automation"
   authors: Serge Demeyer
   kind: Presentation
