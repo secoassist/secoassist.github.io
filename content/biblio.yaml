@@ -52,6 +52,12 @@
   year: 2020
   link: https://youtu.be/ZyROwPDIbyA
   link2: https://www.slideshare.net/tommens/how-magic-is-zero-an-empirical-analysis-of-initial-development-releases-in-software-package-distributions/
+- title: Automatic Library Categorization	
+  authors: Camilo Velázquez-Rodríguez and Coen De Roover
+  kind: Presentation
+  published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
+  year: 2020
+  link: https://www.youtube.com/watch?v=2ys1fmFWRX4
 - title: "Bot or not? Detecting bots in GitHub pull request activity based on comment similarity"
   authors: Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
   kind: Article
