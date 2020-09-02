@@ -1,3 +1,8 @@
+- title: "Prioritising Server Side Reachability via Inter-process Concolic Testing "
+  authors: Maarten Vandercammen, Laurent Christophe, Dario Di Nucci, Wolfgang De Meuter and Coen De Roover 
+  kind: Journal
+  year: 2021
+  published: In The Art, Science, and Engineering of Programming, in press, 2021 
 - title: "Comparing dependency issues across software package distributions"
   authors: Tom Mens
   kind: Presentation
@@ -81,6 +86,24 @@
   year: 2019
   published: Wiley Journal on Software Evolution and Process
   link: https://doi.org/10.1002/smr.2157
+- title: "A Large Empirical Assessment of the Role of Data Balancing in Machine-Learning-based Code Smell Detection"
+  authors: Fabiano Pecorelli, Dario Di Nucci, Coen De Roover and Andrea De Lucia 
+  kind: Journal
+  year: 2020
+  published: Elsevier Journal of Systems and Software, 2020
+  link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-02.pdf
+- title: "A Delta-Debugging Approach to Assessing the Resilience of Actor Programs through Run-time Test Perturbations"
+  authors: Jonas De Bleser, Dario Di Nucci and Coen De Roover 
+  kind: Article
+  year: 2020
+  published: Proceedings of the 1st International Conference on Automated Software Testing (AST 2020), Seoul (South Korea)
+  link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-01.pdf
+- title: "On the Role of Data Balancing for Machine Learning-Based Code Smell Detection"
+  authors: Fabiano Pecorelli, Dario Di Nucci, Coen De Roover and Andrea De Lucia
+  kind: Article
+  year: 2019
+  published: Proceedings of the 3rd International Workshop on Machine Learning Techniques for Software Quality Evaluation (MaLTeSQuE 2019), Talinn (Estonia)
+  link: http://soft.vub.ac.be/Publications/2019/vub-soft-tr-19-16.pdf
 - title: "On the impact of code smells on the energy consumption of mobile applications"
   authors: Fabio Palomba, Dario Di Nucci, Annibale Panichella, Andy Zaidman, and Andrea De Lucia
   kind: Journal
