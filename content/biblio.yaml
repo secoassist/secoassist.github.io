@@ -16,6 +16,12 @@
   published: Journal of Systems and Software, 10.1016/j.jss.2020.110573, 2020
   link: https://www.sciencedirect.com/science/article/pii/S0164121220300546?via%3Dihub
   link2: https://decan.lexpage.net/files/JSS-2020.pdf
+- title: "A Large Empirical Assessment of the Role of Data Balancing in Machine-Learning-based Code Smell Detection"
+  authors: Fabiano Pecorelli, Dario Di Nucci, Coen De Roover and Andrea De Lucia 
+  kind: Journal
+  year: 2020
+  published: Elsevier Journal of Systems and Software, 2020
+  link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-02.pdf
 - title: "Are the Gas Prices Oracle Reliable? A Case Study using the EthGasStation"
   authors: Guiseppe Antonio Pierro, Henrique Rocha, Roberto Tonelli, and Stéphane Ducasse.
   kind: Article
@@ -80,30 +86,18 @@
   link: https://www.slideshare.net/tommens/measuring-technical-lag-in-software-deployments-chaosscon-2020
   link2: https://chaoss.community/chaosscon-2020-eu
   link3: https://www.youtube.com/watch?v=aGGhNnaD5iI
-- title: "A Formal Framework for Measuring Technical Lag in Component Repositories - and its Application to npm"
-  authors: Ahmed Zerouali, Tom Mens, Jesus M. Gonzalez-Barahona, Alexandre Decan, Eleni Constantinou, Gregorio Robles
-  kind: Journal
-  year: 2019
-  published: Wiley Journal on Software Evolution and Process
-  link: https://doi.org/10.1002/smr.2157
-- title: "A Large Empirical Assessment of the Role of Data Balancing in Machine-Learning-based Code Smell Detection"
-  authors: Fabiano Pecorelli, Dario Di Nucci, Coen De Roover and Andrea De Lucia 
-  kind: Journal
-  year: 2020
-  published: Elsevier Journal of Systems and Software, 2020
-  link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-02.pdf
 - title: "A Delta-Debugging Approach to Assessing the Resilience of Actor Programs through Run-time Test Perturbations"
   authors: Jonas De Bleser, Dario Di Nucci and Coen De Roover 
   kind: Article
   year: 2020
   published: Proceedings of the 1st International Conference on Automated Software Testing (AST 2020), Seoul (South Korea)
   link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-01.pdf
-- title: "On the Role of Data Balancing for Machine Learning-Based Code Smell Detection"
-  authors: Fabiano Pecorelli, Dario Di Nucci, Coen De Roover and Andrea De Lucia
-  kind: Article
+- title: "A Formal Framework for Measuring Technical Lag in Component Repositories - and its Application to npm"
+  authors: Ahmed Zerouali, Tom Mens, Jesus M. Gonzalez-Barahona, Alexandre Decan, Eleni Constantinou, Gregorio Robles
+  kind: Journal
   year: 2019
-  published: Proceedings of the 3rd International Workshop on Machine Learning Techniques for Software Quality Evaluation (MaLTeSQuE 2019), Talinn (Estonia)
-  link: http://soft.vub.ac.be/Publications/2019/vub-soft-tr-19-16.pdf
+  published: Wiley Journal on Software Evolution and Process
+  link: https://doi.org/10.1002/smr.2157
 - title: "On the impact of code smells on the energy consumption of mobile applications"
   authors: Fabio Palomba, Dario Di Nucci, Annibale Panichella, Andy Zaidman, and Andrea De Lucia
   kind: Journal
@@ -130,6 +124,12 @@
   year: 2019
   published: University of Mons, Belgium, September 4th 2019
   link: https://github.com/neglectos/PhD_Dissertation/raw/master/PhD_Dissertation.pdf
+- title: "On the Role of Data Balancing for Machine Learning-Based Code Smell Detection"
+  authors: Fabiano Pecorelli, Dario Di Nucci, Coen De Roover and Andrea De Lucia
+  kind: Article
+  year: 2019
+  published: Proceedings of the 3rd International Workshop on Machine Learning Techniques for Software Quality Evaluation (MaLTeSQuE 2019), Talinn (Estonia)
+  link: http://soft.vub.ac.be/Publications/2019/vub-soft-tr-19-16.pdf
 - title: "Adopting Program Synthesis for Test Amplification"
   authors: Mehrdad Abdi, Henrique Rocha, and Serge Demeyer
   kind: Article
