@@ -2,9 +2,15 @@
   authors: Tom Mens
   kind: Presentation
   year: 2020
-  published: QUATIC 2020 keynote, University of Algarve, Portugal, 9 September 20202
+  published: QUATIC 2020 keynote, University of Algarve, Portugal, 9 September 2020
   link: https://www.slideshare.net/tommens/is-my-software-ecosystem-healthy-it-depends
   link: https://youtu.be/iBPer5gIyRE
+- title: "On the fragility of open source software packaging ecosystems"
+  authors: Tom Mens
+  kind: Presentation
+  year: 2020
+  published: SATTOSE 2020 keynote, Vrije Universiteit Amsterdam, The Netherlands, 1 July 2020
+  link: https://www.slideshare.net/tommens/on-the-fragility-of-open-source-software-packaging-ecosystems
 - title: "Prioritising Server Side Reachability via Inter-process Concolic Testing "
   authors: Maarten Vandercammen, Laurent Christophe, Dario Di Nucci, Wolfgang De Meuter and Coen De Roover 
   kind: Journal
