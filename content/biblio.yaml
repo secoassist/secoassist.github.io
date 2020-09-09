@@ -1,3 +1,10 @@
+- title: "Is my software ecosystem healthy? It depends!"
+  authors: Tom Mens
+  kind: Presentation
+  year: 2020
+  published: QUATIC 2020 keynote, University of Algarve, Portugal, 9 September 20202
+  link: https://www.slideshare.net/tommens/is-my-software-ecosystem-healthy-it-depends
+  link: https://youtu.be/iBPer5gIyRE
 - title: "Prioritising Server Side Reachability via Inter-process Concolic Testing "
   authors: Maarten Vandercammen, Laurent Christophe, Dario Di Nucci, Wolfgang De Meuter and Coen De Roover 
   kind: Journal
