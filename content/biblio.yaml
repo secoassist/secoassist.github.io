@@ -35,6 +35,11 @@
   year: 2020
   published: Elsevier Journal of Systems and Software, 2020
   link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-02.pdf
+- title: "A multi-dimensional analysis of technical lag in Debian-based Docker images"
+  authors: Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona and Gregorio Robles
+  kind: Journal
+  year: 2020
+  published: Empirical Software Engineering, in press, 2020
 - title: "Are the Gas Prices Oracle Reliable? A Case Study using the EthGasStation"
   authors: Guiseppe Antonio Pierro, Henrique Rocha, Roberto Tonelli, and Stéphane Ducasse.
   kind: Article
