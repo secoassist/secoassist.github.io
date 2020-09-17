@@ -40,6 +40,16 @@
   kind: Journal
   year: 2020
   published: Empirical Software Engineering, in press, 2020
+- title: "Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution"
+  authors:  Ruben Opdebeeck, Ahmed Zerouali, Camilo Velazquez-Rodriguez and Coen De Roover
+  kind: Conference
+  published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) co-located with ICSME , Adelaide, Australia (virtual), 2020
+  year: 2020
+- title: "MUTAMA: An Automated Multi-label Tagging Approach for Software Libraries on Maven"
+  authors: Camilo Velazquez-Rodriguez and Coen De Roover
+  kind: Conference
+  published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) co-located with ICSME , Adelaide, Australia (virtual), 2020
+  year: 2020
 - title: "On Package Freshness in Linux Distributions"
   authors: Damien Legay, Alexandre Decan, Tom Mens
   kind: Conference
