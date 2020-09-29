@@ -40,6 +40,12 @@
   kind: Journal
   year: 2020
   published: Empirical Software Engineering, in press, 2020
+- title: "Sismic - A Python library for statechart execution and testing"
+  authors: Alexandre Decan, Tom Mens
+  kind: journal
+  year: 2020
+  published: SoftwareX
+  link: https://www.sciencedirect.com/science/article/pii/S2352711020303034
 - title: "Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution"
   authors:  Ruben Opdebeeck, Ahmed Zerouali, Camilo Velazquez-Rodriguez and Coen De Roover
   kind: Conference
