@@ -44,7 +44,7 @@
   authors: Alexandre Decan, Tom Mens
   kind: Journal
   year: 2020
-  published: SoftwareX
+  published: SoftwareX, 10.1016/j.softx.2020.100590, 2020
   link: https://www.sciencedirect.com/science/article/pii/S2352711020303034
 - title: "Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution"
   authors:  Ruben Opdebeeck, Ahmed Zerouali, Camilo Velazquez-Rodriguez and Coen De Roover
