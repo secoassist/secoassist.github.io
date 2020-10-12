@@ -15,7 +15,7 @@
   year: 2020
   authors: M. Golzadeh, A. Decan, D. Legay and T. Mens
   institution: University of Mons
-  description: A dataset of 5,000 commenters active in GitHub issues and pull requests, manually labeled as either "bot" or "human".
+  description: A ground-truth dataset of 5,000 commenters active in GitHub issues and pull requests, manually labeled (with high interrater agreement) as either "bot" or "human".
   homepage: http://doi.org/10.5281/zenodo.4000388
 - name: GAP
   category: tool
@@ -30,7 +30,7 @@
   year: 2019
   authors: Ahmed Zerouali and Valerio Cosentino
   institution: University of Mons, Bitergia
-  description: ConPan inspects Docker containers and extracts their installed packages to analyze them. ConPan analyzes packages technical lag, vulnerabilities and other type of bugs.
+  description: ConPan inspects Docker containers, extracts their installed packages and analyzes their technical lag, vulnerabilities and other type of bugs.
   homepage: https://github.com/neglectos/ConPan
   paper: "ConPan: A Tool to Analyze Packages in Software Containers"
 - name: portion
@@ -38,7 +38,7 @@
   year: 2018
   authors: Alexandre Decan
   institution: University of Mons
-  description: portion is a Python library providing data structures and operations for intervals and interval sets.
+  description: portion is a Python library providing data structures and operations for intervals, supporting intervals of any comparable objects and interval sets out of the box.
   homepage: https://pypi.org/project/portion/
   documentation: https://github.com/AlexandreDecan/portion
 - name: Sismic

@@ -18,13 +18,15 @@
     {{ item.description }}<br />
   </p>
   <p>
-    <a href="{{ item.homepage }}">{{ item.homepage }}</a><br />
-    {% if item.documentation %}<a href="{{ item.documentation }}">{{ item.documentation }}</a> (documentation)<br />{% endif %}
-    {% if item.source %}<a href="{{ item.source }}">{{ item.source }}</a> (source)<br />{% endif %}
+    &raquo; <a href="{{ item.homepage }}">{{ item.homepage }}</a><br />
+    {% if item.documentation %}&raquo; <a href="{{ item.documentation }}">{{ item.documentation }}</a> (documentation)<br />{% endif %}
+    {% if item.source %}&raquo; <a href="{{ item.source }}">{{ item.source }}</a> (source)<br />{% endif %}
   </p>
   {% if item.paper %}
     {% for bib in biblio %}{% if bib.title == item.paper %}
-    <p>Related paper: <em>{{ bib.title }}</em>, {{ bib.authors }}, {{ bib.published }}</p>
+    <p>Related paper: {% if bib.link %}<a href="{{ bib.link }}"><em>{{ bib.title }}</em></a>{% else %}<em>{{ bib.title }}</em>{% endif %}
+    <span class="text-muted">by {{ bib.authors }}
+    in {{ bib.published }}</span></p>
     {% endif %}{% endfor %}
   {% endif %}
 {% endfor %}
