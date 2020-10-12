@@ -8,7 +8,7 @@
 {% set tools = load_yaml('tools.yaml') %}
 {% set biblio = load_yaml('biblio.yaml') %}
 
-{% for item in tools %}
+{% for item in tools|sort(attribute="name")|sort(attribute="year,category", reverse=True) %}
   <h3>
       <i class="text-muted fa fa-{% if item.category == "dataset" %}database{% else %}cogs{% endif %}" style="margin-left:-1.8em; float:left"></i>
       {{ item.name }}
