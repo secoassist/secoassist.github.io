@@ -24,7 +24,7 @@
   </p>
   {% if item.paper %}
     {% for bib in biblio %}{% if bib.title == item.paper %}
-    <p>Related paper: <em>{{ bib.title }}</em>, {{ bib.authors }}, {{ bib.published }}, {{ bib.year }}</p>
+    <p>Related paper: <em>{{ bib.title }}</em>, {{ bib.authors }}, {{ bib.published }}</p>
     {% endif %}{% endfor %}
   {% endif %}
 {% endfor %}
