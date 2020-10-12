@@ -1,0 +1,32 @@
+{% extends "_onecol.html" %}
+
+{% block title %}Tools and Datasets{% endblock %}
+
+{% block body %}
+<h2>Tools and Datasets</h2>
+
+{% set tools = load_yaml('tools.yaml') %}
+{% set biblio = load_yaml('biblio.yaml') %}
+
+{% for item in tools %}
+  <h3>
+      <i class="text-muted fa fa-{% if item.category == "dataset" %}database{% else %}cogs{% endif %}" style="margin-left:-1.8em; float:left"></i>
+      {{ item.name }}
+      <small>by {{ item.authors }} ({{ item.institution }}), {{ item.year }}</small>
+  </h3>
+  <p>
+    {{ item.description }}<br />
+  </p>
+  <p>
+    <a href="{{ item.homepage }}">{{ item.homepage }}</a><br />
+    {% if item.documentation %}<a href="{{ item.documentation }}">{{ item.documentation }}</a> (documentation)<br />{% endif %}
+    {% if item.source %}<a href="{{ item.source }}">{{ item.source }}</a> (source)<br />{% endif %}
+  </p>
+  {% if item.paper %}
+    {% for bib in biblio %}{% if bib.title == item.paper %}
+    <p>Related paper: <em>{{ bib.title }}</em>, {{ bib.authors }}, {{ bib.published }}</p>
+    {% endif %}{% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% endblock %}
