@@ -28,7 +28,7 @@
 - name: SmallAmp
   category: tool
   year: 2019
-  authors: Mehrdad Abdi and Henrique Rocha and Serge Demeyer
+  authors: Mehrdad Abdi
   institution: University of Antwerp
   description: SmallAmp is a test amplification tool in Pharo Smalltalk; it creates new test methods based on manually written ones to increase mutation coverage.
   homepage: https://github.com/mabdi/small-amp
