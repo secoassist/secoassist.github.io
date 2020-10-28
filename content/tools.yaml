@@ -25,6 +25,14 @@
   description: GAP is a command-line tool for forecasting future commit activity of contributors involved in software projects distributed through git.
   homepage: https://github.com/AlexandreDecan/gap
   paper: "GAP: Forecasting Commit Activity in git Projects"
+- name: SmallAmp
+  category: tool
+  year: 2019
+  authors: Mehrdad Abdi
+  institution: University of Antwerp
+  description: SmallAmp is a test amplification tool in Pharo Smalltalk; it creates new test methods based on manually written ones to increase mutation coverage.
+  homepage: https://github.com/mabdi/small-amp
+  paper: "Test amplification in the pharo smalltalk ecosystem"
 - name: ConPan
   category: tool
   year: 2019
