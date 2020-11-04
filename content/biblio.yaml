@@ -231,8 +231,9 @@
   authors: Mehrdad Abdi, Henrique Rocha, and Serge Demeyer
   kind: Workshop
   year: 2019
-  published: In Proceedings IWST 2019 (International Workshop on Smalltalk Technologies). ESUG, 2019
+  published: In Proceedings IWST 2019 (International Workshop on Smalltalk Technologies). Cologne, 2019
   link: https://www.stamp-project.eu/view/Blog/DSpot_Pharo_Smalltalk
+  
 - title: "On the Usage of Badges in Open Source Packages on GitHub"
   authors: Damien Legay, Alexandre Decan, Tom Mens
   published: Proceedings of the 18th Belgium-Netherlands Software Evolution Workshop, Brussels, Belgium, 28-11-2019
