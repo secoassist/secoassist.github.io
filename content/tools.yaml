@@ -3,6 +3,13 @@
 # category: should be either "tool" or "dataset"
 # paper: should be the exact title of a paper from biblio.yaml, if provided;
 
+- name: SQLInspect
+  category: tool
+  year: 2018
+  institution: University of Namur
+  authors: Csaba Nagy, Anthony Cleve
+  description: A static SQL analyzer with plug-in support for Eclipse to inspect database usage in Java applications. It statically extracts SQL queries embedded in Java and performs various analyses on them.
+  homepage: https://bitbucket.org/csnagy/sqlinspect
 - name: BoDeGa
   category: tool
   year: 2020
