@@ -10,13 +10,13 @@
   authors: Csaba Nagy, Anthony Cleve
   description: A static SQL analyzer with plug-in support for Eclipse to inspect database usage in Java applications. It statically extracts SQL queries embedded in Java and performs various analyses on them.
   homepage: https://bitbucket.org/csnagy/sqlinspect
-- name: BoDeGa
+- name: BoDeGha
   category: tool
   year: 2020
   authors: Mehdi Golzadeh
   institution: University of Mons
-  description: BoDeGa is an automated tool to identify bots in GitHub repositories by analysing pull request and issue comments.
-  homepage: https://github.com/mehdigolzadeh/BoDeGa
+  description: BoDeGha is an automated tool to identify bots in GitHub repositories by analysing pull request and issue comments.
+  homepage: https://github.com/mehdigolzadeh/BoDeGha
 - name: Human/Bot Ground-Truth Dataset
   category: dataset
   year: 2020
