@@ -1,0 +1,68 @@
+# Available keys:
+# name*, category*, year*, authors*, institution*, description*, homepage*, documentation, source, paper
+# category: should be either "tool" or "dataset"
+# paper: should be the exact title of a paper from biblio.yaml, if provided;
+
+- name: SQLInspect
+  category: tool
+  year: 2018
+  institution: University of Namur
+  authors: Csaba Nagy, Anthony Cleve
+  description: A static SQL analyzer with plug-in support for Eclipse to inspect database usage in Java applications. It statically extracts SQL queries embedded in Java and performs various analyses on them.
+  homepage: https://bitbucket.org/csnagy/sqlinspect
+- name: BoDeGha
+  category: tool
+  year: 2020
+  authors: Mehdi Golzadeh
+  institution: University of Mons
+  description: BoDeGha is an automated tool to identify bots in GitHub repositories by analysing pull request and issue comments.
+  homepage: https://github.com/mehdigolzadeh/BoDeGha
+- name: Human/Bot Ground-Truth Dataset
+  category: dataset
+  year: 2020
+  authors: M. Golzadeh, A. Decan, D. Legay and T. Mens
+  institution: University of Mons
+  description: A ground-truth dataset of 5,000 commenters active in GitHub issues and pull requests, manually labeled (with high interrater agreement) as either "bot" or "human".
+  homepage: http://doi.org/10.5281/zenodo.4000388
+- name: GAP
+  category: tool
+  year: 2020
+  authors: Alexandre Decan
+  institution: University of Mons
+  description: GAP is a command-line tool for forecasting future commit activity of contributors involved in software projects distributed through git.
+  homepage: https://github.com/AlexandreDecan/gap
+  paper: "GAP: Forecasting Commit Activity in git Projects"
+- name: SmallAmp
+  category: tool
+  year: 2019
+  authors: Mehrdad Abdi
+  institution: University of Antwerp
+  description: SmallAmp is a test amplification tool in Pharo Smalltalk; it creates new test methods based on manually written ones to increase mutation coverage.
+  homepage: https://github.com/mabdi/small-amp
+  paper: "Test amplification in the pharo smalltalk ecosystem"
+- name: ConPan
+  category: tool
+  year: 2019
+  authors: Ahmed Zerouali and Valerio Cosentino
+  institution: University of Mons, Bitergia
+  description: ConPan inspects Docker containers, extracts their installed packages and analyzes their technical lag, vulnerabilities and other type of bugs.
+  homepage: https://github.com/neglectos/ConPan
+  paper: "ConPan: A Tool to Analyze Packages in Software Containers"
+- name: portion
+  category: tool
+  year: 2018
+  authors: Alexandre Decan
+  institution: University of Mons
+  description: portion is a Python library providing data structures and operations for intervals, supporting intervals of any comparable objects and interval sets out of the box.
+  homepage: https://pypi.org/project/portion/
+  documentation: https://github.com/AlexandreDecan/portion
+- name: Sismic
+  category: tool
+  year: 2018
+  authors: Alexandre Decan and Tom Mens
+  institution: University of Mons
+  description: Sismic is a Python library providing a tool suite to define, simulate, execute and test statecharts, supporting test-driven development, behaviour-driven development, design by contrat, and property statecharts to monitor violations of behavioural properties during statechart execution.
+  homepage: https://pypi.org/project/sismic/
+  documentation: https://sismic.readthedocs.io/
+  source: https://github.com/AlexandreDecan/sismic
+  paper: "Sismic - A Python library for statechart execution and testing"

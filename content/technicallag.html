@@ -7,6 +7,12 @@
 
 
 <h3>About Technical Lag</h3>
+<p>Ideally, software systems would depend on the most “ideal" available version of their dependencies, thus benefiting from the new features and bug fixes. In practice, however, software projects and packages have a certain lag because many developers choose not to
+update certain dependencies (“if it ain't broke, don't fix it"). Moreover, in many cases developers choose not to update because new major releases may include new functionality that is not needed.</br>
+The concept of technical lag is related to, but different from, the metaphor of technical debt. Technical debt refers to the qualitative difference between code “as it should be" and code “as it is". Technical lag refers to the increasing lag between the ideal available upstream versions of packages used by a software system and those actually used in the deployed system. Technical lag can be expressed in many ways. The figure below illustrates the concept of technical lag in an imaginary case. Suppose that there is a software system that deploys a set of software components. For one of this components, the system deploys its version 1.1.0 while there is an available “ideal" version 2.0.0 (it could be the most secure, the most stable, etc). The technical lag is the difference between these two versions (1.1.0 and 2.0.0), and it could be measured in many ways, e.g., in terms of a difference in time, versions, vulnerabilities, features, etc. Note that the technical lag could be aggregated for the whole set of deployed components.</br>
+  <p><img src="{{ "assets/figures/techlag_example.png"|relative }}", style="width: 55%" /></p>
+
+</p>
 
 <h3>Useful References</h3>
 
@@ -14,17 +20,56 @@
 <li> <a href="https://scholar.google.com/citations?hl=en&user=B3G003AAAAAJ">Ahmed Zerouali</a>,
 <strong>A Measurement Framework for Analyzing Technical Lag in Open-Source Software Ecosystems</strong><br/>
 <a href="https://github.com/neglectos/PhD_Dissertation/raw/master/PhD_Dissertation.pdf">[PhD Thesis, University of Mons, Belgium]</a><br/>
-Thesis Advisor: <a href="https://scholar.google.com/citations?user=5RJe8dsAAAAJ">Tom Mens</a><br/>
-<p>Abstract: Software development practices have evolved quite a lot since the early days of programming. Most open source software projects today are using distributed versioning development practices.They heavily rely on reusing external software packages, to realize part of their functionality, rather than needing to implement these functionalities themselves. Reusable open source software components for major programming languages and operating systems are stored in public package repositories where they are developed and evolved together within the same environment. Developers rely on package management tools to automate deployments, specifying which package releases satisfy the needs of their applications. However, these specifications may lead to deploying package releases that are outdated or otherwise undesirable because they do not include bug fixes, security fixes, or new functionality. In contrast, automatically updating to a more recent release may introduce incompatibility issues. While this delicate problem is important at the level of individual packages, it becomes even more relevant at the level of large distributions of software packages where packages depend, directly or indirectly, on a large number of other packages.
+<strong>Thesis Advisor: </strong><a href="https://scholar.google.com/citations?user=5RJe8dsAAAAJ">Tom Mens</a><br/>
+<p><strong>Abstract: </strong>Software development practices have evolved quite a lot since the early days of programming. Most open source software projects today are using distributed versioning development practices.They heavily rely on reusing external software packages, to realize part of their functionality, rather than needing to implement these functionalities themselves. Reusable open source software components for major programming languages and operating systems are stored in public package repositories where they are developed and evolved together within the same environment. Developers rely on package management tools to automate deployments, specifying which package releases satisfy the needs of their applications. However, these specifications may lead to deploying package releases that are outdated or otherwise undesirable because they do not include bug fixes, security fixes, or new functionality. In contrast, automatically updating to a more recent release may introduce incompatibility issues. While this delicate problem is important at the level of individual packages, it becomes even more relevant at the level of large distributions of software packages where packages depend, directly or indirectly, on a large number of other packages.
 The goal of this PhD dissertation is to capture and quantify this delicate balance between the need of updating to the ideal release and the risk of having breaking changes. We formalize a generic model of technical lag, a concept that quantifies to which extent a deployed collection of components is outdated with respect to the ideal deployment. Then, we show how to operationalise this model for different case studies and we empirically analyze its evolution in npm, Debian and Docker ecosystems. Finally, we develop a tool to support Docker deployers in assessing the health of the software included in their containers.</p>
-
-            <p>
-              <a href = "{{ "assets/seminar/Zerouali_public_defense.pdf"|relative }}">Presentation slides</a>
-            </p>
-            <p>
-              <a href = "https://youtu.be/xft-QOIGzdk">Youtube video of the presentation</a>
-            </p>
+<p>
+  <a href = "{{ "assets/seminar/Zerouali_public_defense.pdf"|relative }}">Presentation slides</a></br>
+  <a href = "https://youtu.be/xft-QOIGzdk">Youtube video of the presentation</a>
+</p>
 </li>
+
+<li> 
+	<strong>A multi-dimensional analysis of technical lag in Debian-based Docker images</strong><br/>
+<strong>Authors: </strong>Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona and Gregorio Robles<br/>
+<strong>Journal: </strong>Empirical Software Engineering, in press, 2020.
+<p><strong>Abstract: </strong>Container-based solutions, such as Docker, have become increasingly relevant in the software industry to facilitate deploying and maintaining software systems. Little is known, however, about how outdated such containers are at the moment of their release or when used in production. This article addresses this question, by measuring and comparing five different dimensions of technical lag that Docker container images can face: package lag, time lag, version lag, vulnerability lag, and bug lag. We instantiate the formal technical lag framework from previous work to operationalise these different dimensions of lag on Dockerhub images based on the Debian Linux distribution. We carry out a large-scale empirical study of such technical lag, over a three-year period, in 140,498 Debian images. We compare the differences between official and community images, as well as between images with different Debian distributions: Oldstable, Stable or Testing. The analysis shows that the different dimensions of technical lag are complementary, providing multiple insights. Official Debian images consistently have a lower lag than community images for all considered lag dimensions. The amount of lag incurred depends on the type of Debian distribution and the considered lag dimension.
+Our research offers empirical evidence that developers and deployers of Docker images can benefit from identifying to which extent their containers are outdated according to the considered dimensions, and mitigate the risks related to such outdatedness.</p>
+</li>
+
+
+<li> 
+<strong>A formal framework for measuring technical lag in component repositories — and its application to npm</strong><br/>
+<strong>Authors: </strong>Ahmed Zerouali, Tom Mens, Jesus Gonzalez‐Barahona, Alexandre Decan, Eleni Constantinou and Gregorio Robles<br/>
+<strong>Journal: </strong>Software: Evolution and Process, 2019.
+<p><strong>Abstract: </strong>Reusable Open Source Software (OSS) components for major programming languages are available in package repositories. Developers rely on package management tools to automate deployments, specifying which package releases satisfy the needs of their applications. However, these specifications may lead to deploying package releases that are outdated, or otherwise undesirable, because they do not include bug fixes, security fixes, or new functionality. In contrast, automatically updating to a more recent release may introduce incompatibility issues. To capture this delicate balance, we formalise a generic model of technical lag, a concept that quantifies to which extent a deployed collection of components is outdated, with respect to the ideal deployment. We operationalise this model for the npm package manager. We empirically analyze the history of package update practices and technical lag for more than 500K packages with about 4M package releases over a seven‐year period. We consider both development and runtime dependencies, and study both direct and transitive dependencies. We also analyze the technical lag of external GitHub applications depending on npm packages. We report our findings, suggesting the need for more awareness of, and integrated tool support for, controlling technical lag in software libraries.</p>
+</li>
+
+<li> 
+<strong>On the Evolution of Technical Lag in the npm Package Dependency Network</strong><br/>
+<strong>Authors: </strong>Alexandre Decan, Tom Mens and Eleni Constantinou<br/>
+<strong>Conference: </strong>IEEE International Conference on Software Maintenance and Evolution (ICSME), 2018.
+<p><strong>Abstract: </strong>Software packages developed and distributed through package managers extensively depend on other packages. These dependencies are regularly updated, for example to add new features, resolve bugs or fix security issues. In order to take full advantage of the benefits of this type of reuse, developers should keep their dependencies up to date by relying on the latest releases. In practice, however, this is not always possible, and packages lag behind with respect to the latest version of their dependencies. This phenomenon is described as technical lag in the literature. In this paper, we perform an empirical study of technical lag in the npm dependency network by investigating its evolution for over 1.4M releases of 120K packages and 8M dependencies between these releases. We explore how technical lag increases over time, taking into account the release type and the use of package dependency constraints. We also discuss how technical lag can be reduced by relying on the semantic versioning policy.
+</p>
+</li>
+
+<li> 
+<strong>An Empirical Analysis of Technical Lag in npm Package Dependencies</strong><br/>
+<strong>Authors: </strong>Ahmed Zerouali, Eleni Constantinou, Tom Mens, Gregorio Robles and Jesus Gonzalez-Barahona<br/>
+<strong>Conference: </strong> International Conference on Software Reuse (ICSR), 2018.
+<p><strong>Abstract: </strong>Software library packages are constantly evolving and increasing in number. Not updating to the latest available release of dependent libraries may negatively affect software development by not benefiting from new functionality, vulnerability and bug fixes available in more recent versions. On the other hand, automatically updating to the latest release may introduce incompatibility issues. We introduce a technical lag metric for dependencies in package networks, in order to assess how outdated a software package is compared to the latest available releases of its dependencies. We empirically analyse the package update practices and technical lag for the npm distribution of JavaScript packages. Our results show a strong presence of technical lag caused by the specific use of dependency constraints, indicating a reluctance to update dependencies to avoid backward incompatible changes.
+</p>
+</li>
+
+<li> 
+<strong>Technical Lag in Software Compilations: Measuring How Outdated a Software Deployment Is</strong><br/>
+<strong>Authors: </strong>Jesus M. Gonzalez-Barahona, Paul Sherwood, Gregorio Robles and Daniel Izquierdo<br/>
+<strong>Conference: </strong> IFIP International Conference on Open Source Systems, 2017.
+<p><strong>Abstract: </strong>Large software compilations based on free, open source software (FOSS) packages are the basis for many software systems. When they are deployed in production, specific versions of the packages in the compilation are selected for installation. Over time, those versions become outdated with respect to the upstream software from which they are produced, and from the components available in the compilations as well. The fact that deployed components are outdated is not a problem in itself, but there is a price to pay for not being “as much updated as reasonable”. This includes bug fixes and new features that could, at least potentially, be interesting for the deployed system. Therefore, a balance has to be maintained between “being up-to-date” and “keeping the good old working versions”. This paper proposes a theoretical model (the “technical lag”) for measuring how outdated a system is, with the aim of assisting in the decisions about upgrading in production. The paper explores several ways in which technical lag can be implemented, depending on requirements. As an illustration, it presents as well some specific cases in which the evolution of technical lag is computed.
+
+</p>
+</li>
+
 </ul>
 
 {% endblock %}
