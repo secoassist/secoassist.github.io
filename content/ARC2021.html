@@ -1,48 +1,53 @@
-{% extends "_onecol.html" %}
+<html>
 
-{% block title %}New research project (2021-2025){% endblock %}
+<head>
+<title>ARC 2021-2025 Research Project</title>
+</head>
 
-{% block body %}
-<h2>Predictive Health Modelling of Evolving Software Packaging Ecosystems<br/>
-University of Mons - Action de Recherche Concert&eacute;e 2021-2025</h2>
+<body>
 
-<p style="color:blue">Based on recent developments in machine learning, and building further on the results obtained in SECO-ASSIST, a <b>new 5-year research project</b> will start in 2021, with the aim to develop prediction, simulation and discovery models to analyse and predict the health of OSS packaging ecosystems and their constituent packages.</p>
-<p>The project will be conducted at the <a href="http://informatique.umons.ac.be">Department of Computer Science</a> of the <a href="https://web.umons.ac.be/en/">University of Mons</a>, lead by <a href="mailto:tom.mens@umons.ac.be">Tom Mens</a> (Full Professor, Software Engineering Lab)
- and <a href="mailto:Souhaib.BENTAIEB@umons.ac.be">Souhaib Ben Taieb</a> (Associate Professor, Big Data and Machine Learning Lab).
+<h1>Predictive Health Modelling of Evolving Software Ecosystems<br/>
+University of Mons - ARC Research Project 2021-2025</h1>
+
+<p style="color:blue">Based on recent developments in machine learning and <a href="https://secoassist.github.io/overview.html">software ecosystem analysis</a>, a five-year research project will start in 2021. The project aims <b>to develop prediction, simulation and discovery models to analyse and predict the health of OSS ecosystems and their constituent components</b>.</p>
+<p>The project will be conducted at the <a href="http://informatique.umons.ac.be">Department of Computer Science</a> of the <a href="https://web.umons.ac.be/en/">University of Mons</a>, lead by <a href="https://scholar.google.com/citations?hl=en&user=5RJe8dsAAAAJ&view_op=list_works&sortby=pubdate">Tom Mens</a> (Full Professor, Software Engineering Lab)
+ and <a href="http://souhaib-bentaieb.com/">Souhaib Ben Taieb</a> (Associate Professor, Big Data and Machine Learning Lab).
 Belgium is centrally located in Europe, and the labs are well-connected to other research teams worldwide. A research position in our group is an ideal stepping stone for an independent research career in academia or industry. Our teams host researchers of various nationalities, hence the working language will be English.
 </p>
-<h3>How to apply</h3>
+
+<p><b>Key Words:</b>
+software ecosystem, software health, empirical analysis, data analytics, predictive modeling,
+machine learning, temporal point processes, time series analysis, neural networks, dynamic network modeling
+</p>
+
+<h2>How to apply</h2>
 <p style="color:blue">We have opened two positions of PhD Research Fellow for highly qualified candidates to work during 4 years each on this innovative and ambitious project. Candidates should have a Master's degree or equivalent in computer science, with a background in machine learning and/or software engineering. A good  knowledge of statistics and former experience in data analysis and open source software development are recommended.</p>
 Interested applicants should contact the principal investigators  <a href="mailto:tom.mens@umons.ac.be">Tom Mens</a> and <a href="mailto:Souhaib.BENTAIEB@umons.ac.be">Souhaib Ben Taieb</a> by e-mail. Official applications should be submitted at your earliest convenience and should indicate at least: a motivation letter; the earliest available starting date of the candidate; a CV including previous experience; a list of previous publications (if applicable); a digital copy of the master thesis; a copy of relevant grade documents; full contact details of the candidate; contact information for at least two potential academic referees that we may contact.
 </p>
 
-<h3>Key Words</h3>
-<p>software ecosystem, software health, empirical analysis, data analytics, predictive modeling,
-machine learning, multi-dimensional point process, neural networks, dynamic network modeling
-</p>
+<h2>Project Summary</h2>
+<p>Open Source Software (OSS) is indispensable in today's software-driven society and industry. OSS communities manage and evolve ecosystems containing millions of interconnected software components released and maintained by thousands of geographically distributed contributors. Software ecosystems face a wide range of health issues induced by bugs, security vulnerabilities, incompatible component updates, and unmaintained, deprecated or outdated package releases. Because of the highly connected and inherently collaborative nature of the socio-technical networks of software ecosystems, these issues frequently impact (transitively) related packages, resulting in a combination of fine-grained (component-level) and coarse-grained (network-level) health problems.</p>
 
-<h3>Summary</h3>
-<p>Open Source Software (OSS) is indispensable in today's software-driven society and industry. OSS communities manage and evolve ecosystems containing millions of interconnected software packages released and maintained by thousands of geographically distributed contributors. Software packaging ecosystems (such as npm, Maven, RubyGems, Cargo, ...) face a wide range of health issues induced by bugs, security vulnerabilities, incompatible component updates, and unmaintained, deprecated or outdated package releases. Because of the highly connected and inherently collaborative nature of the socio-technical networks of packaging ecosystems, these issues frequently impact (transitively) related packages, resulting in a combination of fine-grained (package-level) and coarse-grained (network-level) health problems.</p>
+<p><i>This raises the need for efficient software health prediction models and techniques addressing OSS ecosystem health, at the level of individual components as well as at the socio-technical network level.</i></p>
 
-<p><i>This raises the need for efficient software health prediction models and techniques addressing OSS packaging ecosystem health, at the level of individual packages as well as at the socio-technical network level.</i></p>
+<p>To address this need, we will extract and combine fine-grained events related to the development of individual software components (e.g., new releases, new source code commits, code reviews, reported bugs and their associated fixes, message exchanges between developers), and coarse-grained events related to the evolving socio-technical network (e.g. versions, dependency constraints, new or abandoning contributors). This event data will be gathered from various sources: software component distributions, package managers, version control systems, bug and issue trackers, and online communication channels. Modelling such data is particularly challenging notably due to the complex temporal dynamics, as well as the heterogeneity, quality, size and complexity of the date. We will develop and apply machine learning models for prediction and causal discovery of software health problems based on temporal point processes and dynamic network modelling techniques to analyse large-scale, multi-granular and evolving software ecosystem data.</p>
 
-<p>To address this need, we will extract and combine fine-grained events related to the development of individual software packages (e.g., new package releases, new source code commits, code reviews, reported bugs and their associated fixes, message exchanges between developers), and coarse-grained events related to the evolving socio-technical network (e.g. package versions, dependency constraints, new or abandoning contributors). This event data will be gathered from various sources: software package managers, version control systems, bug and issue trackers, and online communication channels. Modelling such data is particularly challenging notably due to the complex temporal dynamics, as well as the heterogeneity, quality, size and complexity of the date. We will develop and apply machine learning models for prediction and causal discovery of software health problems based on temporal point processes and dynamic network modelling techniques to analyse large-scale, multi-granular and evolving software ecosystem data.</p>
+<p><i>Based on recent developments in machine learning, we will develop prediction, simulation and discovery models to analyse and predict the health of OSS ecosystems and their constituent software components.</p></i>
 
-<p><i>Based on recent developments in machine learning, we will develop prediction, simulation and discovery models to analyse and predict the health of OSS packaging ecosystems and their constituent packages.</p></i>
+<h2>Main objectives</h2>
 
-<h3>Main objectives</h3>
+<p>Historical events of software development activity will be modelled using multi-dimensional point processes. These processes allow to model the inherent property of software development data where past development events can have an important influence on future events affecting (in a negative or positive way) the health of a software component. We will consider state-of-the-art point process models based on deep neural networks to capture more diverse and more complex influences of past events on future events.</p>
 
-<p>Historical events of software package development activity will be modelled using multi-dimensional point processes. These processes allow to model the inherent property of software development data where past development events can have an important influence on future events affecting (in a negative or positive way) the health of a software package. We will consider state-of-the-art point process models based on deep neural networks to capture more diverse and more complex influences of past events on future events.</p>
+<p>In addition to modelling the intrinsic temporal structure at the level of individual components, we will use dynamic network modelling to capture the temporally evolving socio-technical network of the ecosystem. Causal graph learning techniques will be used to infer the causal effects of events and associated health metrics across ecosystem components. Multi-level models will be conceived to combine component-level and network-level health prediction models by capturing the complex dynamic interplay between different levels of granularity and different time scales. To do so, dynamic graph representation learning techniques will be combined with flexible neural models for temporal point processes. Efficient learning techniques will be designed to estimate the parameters of the neural models based on data extracted from selected OSS ecosystems.</p>
 
-<p>In addition to modelling the intrinsic temporal structure at the level of individual packages, we will use dynamic network modelling to capture the temporally evolving socio-technical network of the ecosystem. Causal graph learning techniques will be used to infer the causal effects of events and associated health metrics across ecosystem packages. Multi-level models will be conceived to combine package-level and network-level health prediction models by capturing the complex dynamic interplay between different levels of granularity and different time scales. To do so, dynamic graph representation learning techniques will be combined with flexible neural models for temporal point processes. Efficient learning techniques will be designed to estimate the parameters of the neural models based on data extracted from selected OSS packaging ecosystems.</p>
+<p>The resulting machine learning algorithms and models will be used to provide practical predictive and discovery models for health analysis of OSS ecosystems, taking into account the diversity in activities, granularities and temporal scales, as well as the socio-technical aspects. They will be used to analyse and predict health issues in upcoming package releases, and to assess the network-level health impact by predicting how events with a (positive or negative) effect on health affect other components in the ecosystem.</p>
 
-<p>The resulting machine learning algorithms and models will be used to provide practical predictive and discovery models for health analysis of OSS packaging ecosystems, taking into account the diversity in activities, granularities and temporal scales, as well as the socio-technical aspects. They will be used to analyse and predict health issues in upcoming package releases, and to assess the network-level health impact by predicting how events with a (positive or negative) effect on health affect other packages in the ecosystem.</p>
-
-<h3>References</h3>
+<h2>References</h2>
 
 <ul>
 <li><a href="https://scholar.google.com/citations?hl=en&user=5RJe8dsAAAAJ&view_op=list_works&sortby=pubdate">Publications by Tom Mens</a></li>
 <li><a href="https://scholar.google.com/citations?hl=en&user=AYgO4oQAAAAJ&view_op=list_works&sortby=pubdate">Publications by Souhaib Ben Taieb</a></li>
 </ul>
 
-{% endblock %}
+</body>
+</html>
