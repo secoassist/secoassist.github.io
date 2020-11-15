@@ -1,3 +1,9 @@
+- title: "MUTAMA: An Automated Multi-label Tagging Approach for Software Libraries on Maven"
+  authors: Camilo Velázquez-Rodríguez and Coen De Roover
+  kind: Presentation
+  year: 2020
+  published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) co-located with ICSME , Adelaide, Australia (virtual), 2020
+  link: https://youtu.be/ecrZsmruV30
 - title: "Is my software ecosystem healthy? It depends!"
   authors: Tom Mens
   kind: Presentation
