@@ -53,14 +53,14 @@
   published: SoftwareX, 10.1016/j.softx.2020.100590, 2020
   link: https://www.sciencedirect.com/science/article/pii/S2352711020303034
 - title: "Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution"
-  authors:  Ruben Opdebeeck, Ahmed Zerouali, Camilo Velazquez-Rodriguez and Coen De Roover
+  authors:  Ruben Opdebeeck, Ahmed Zerouali, Camilo Velázquez-Rodríguez and Coen De Roover
   kind: Conference
   published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) co-located with ICSME , Adelaide, Australia (virtual), 2020
   year: 2020
   link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-08.pdf
   link2: https://youtu.be/RrVnpJAYBes
 - title: "MUTAMA: An Automated Multi-label Tagging Approach for Software Libraries on Maven"
-  authors: Camilo Velazquez-Rodriguez and Coen De Roover
+  authors: Camilo Velázquez-Rodríguez and Coen De Roover
   kind: Conference
   published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) co-located with ICSME , Adelaide, Australia (virtual), 2020
   year: 2020
@@ -107,7 +107,7 @@
   link: https://youtu.be/ZyROwPDIbyA
   link2: https://www.slideshare.net/tommens/how-magic-is-zero-an-empirical-analysis-of-initial-development-releases-in-software-package-distributions/
 - title: Automatic Library Categorization
-  authors: Camilo Velazquez-Rodriguez and Coen De Roover
+  authors: Camilo Velázquez-Rodríguez and Coen De Roover
   kind: Presentation
   published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
   year: 2020
