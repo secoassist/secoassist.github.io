@@ -3,6 +3,18 @@
 # category: should be either "tool" or "dataset"
 # paper: should be the exact title of a paper from biblio.yaml, if provided;
 
+- name: MUTAMA
+  category: tool
+  year: 2020
+  institution: Vrije Universiteit Brussel
+  authors: Camilo Velázquez-Rodríguez
+  description: An open source tool recommending MVNRepository tags for a given Java library.
+- name: RESICO
+  category: tool
+  year: 2020
+  institution: Vrije Universiteit Brussel
+  authors: Camilo Velázquez-Rodríguez
+  description: An open source tool for resolving the simple names of API types in incomplete code snippets (e.g., from Stack Overflow) to their fully-qualified name.
 - name: SQLInspect
   category: tool
   year: 2018
