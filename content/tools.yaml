@@ -3,18 +3,34 @@
 # category: should be either "tool" or "dataset"
 # paper: should be the exact title of a paper from biblio.yaml, if provided;
 
+- name: Ansible Galaxy roles, versions, and metadata.
+  category: dataset
+  year: 2020
+  institution: Vrije Universiteit Brussel
+  authors: Ruben Opdebeeck, Ahmed Zerouali, Camilo Velázquez-Rodríguez and Coen De Roover
+  description: A large dataset of 24,620 Ansible roles, repositories, metadata and structural changes between role releases.
+  homepage: https://doi.org/10.5281/zenodo.4039514
+- name: SCARE
+  category: tool
+  year: 2020
+  institution: Vrije Universiteit Brussel
+  authors: Ruben Opdebeeck
+  description: Tool to discover and collect a dataset of Ansible roles from Ansible Galaxy and extract structural changes between versions of a role.
+  homepage: https://github.com/ROpdebee/SCARE
 - name: MUTAMA
   category: tool
   year: 2020
   institution: Vrije Universiteit Brussel
   authors: Camilo Velázquez-Rodríguez
   description: An open source tool recommending MVNRepository tags for a given Java library.
+  homepage: https://github.com/cvelazquezr/MUTAMA
 - name: RESICO
   category: tool
   year: 2020
   institution: Vrije Universiteit Brussel
   authors: Camilo Velázquez-Rodríguez
   description: An open source tool for resolving the simple names of API types in incomplete code snippets (e.g., from Stack Overflow) to their fully-qualified name.
+  homepage: https://github.com/cvelazquezr/RESICO
 - name: SQLInspect
   category: tool
   year: 2018
