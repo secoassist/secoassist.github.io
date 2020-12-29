@@ -89,7 +89,7 @@
   year: 2018
   authors: Alexandre Decan and Tom Mens
   institution: University of Mons
-  description: Sismic is a Python library providing a tool suite to define, simulate, execute and test statecharts, supporting test-driven development, behaviour-driven development, design by contrat, and property statecharts to monitor violations of behavioural properties during statechart execution.
+  description: Sismic is a Python library providing a tool suite to define, simulate, execute and test statecharts, supporting test-driven development, behaviour-driven development, design by contract, and property statecharts to monitor violations of behavioural properties during statechart execution.
   homepage: https://pypi.org/project/sismic/
   documentation: https://sismic.readthedocs.io/
   source: https://github.com/AlexandreDecan/sismic
