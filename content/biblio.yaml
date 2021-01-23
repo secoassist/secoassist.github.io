@@ -1,5 +1,5 @@
 - title: "On the impact of release policies on bug handling activity: A case study of Eclipse"
-  authors: Zeinab Abou Khalil Eleni Constantinou, Tom Mens, Laurence Duchien
+  authors: Zeinab Abou Khalil, Eleni Constantinou, Tom Mens, Laurence Duchien
   kind: Journal
   year: 2021
   published: Journal of Systems and Software, Volume 173
@@ -181,7 +181,7 @@
   authors: Alexandre Decan, Tom Mens
   kind: Journal
   year: 2019
-  published: IEEE Transactions on Software Engineering (10.1109/TSE.2019.2918315)
+  published: IEEE Transactions on Software Engineering
   link: https://doi.org/10.1109/TSE.2019.2918315
   link2: https://decan.lexpage.net/files/TSE-2019.pdf
   link3: https://www.slideshare.net/tommens/what-do-package-dependencies-tell-us-about-semantic-versioning/
