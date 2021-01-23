@@ -1,3 +1,20 @@
+- title: "On the impact of release policies on bug handling activity: A case study of Eclipse"
+  authors: Zeinab Abou Khalil Eleni Constantinou, Tom Mens, Laurence Duchien
+  kind: Journal
+  year: 2021
+  published: Journal of Systems and Software, Volume 173
+  link: https://doi.org/10.1016/j.jss.2020.110882
+- title: "A ground-truth dataset and classification model for detecting bots in GitHub issue and PR comments"
+  authors: Mehdi Golzadeh, Alexandre Decan, Damien Legay, Tom Mens
+  kind: Journal
+  year: 2021
+  published: Journal of Systems and Software
+  link: https://arxiv.org/abs/2010.03303
+- title: "A multi-dimensional analysis of technical lag in Debian-based Docker images"
+  authors: Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona and Gregorio Robles
+  kind: Journal
+  year: 2021
+  published: Empirical Software Engineering
 - title: "MUTAMA: An Automated Multi-label Tagging Approach for Software Libraries on Maven"
   authors: Camilo Velázquez-Rodríguez and Coen De Roover
   kind: Presentation
@@ -21,7 +38,7 @@
   authors: Maarten Vandercammen, Laurent Christophe, Dario Di Nucci, Wolfgang De Meuter and Coen De Roover
   kind: Journal
   year: 2021
-  published: In The Art, Science, and Engineering of Programming, in press, 2021
+  published: The Art, Science, and Engineering of Programming
 - title: "Comparing dependency issues across software package distributions"
   authors: Tom Mens
   kind: Presentation
@@ -32,8 +49,8 @@
   authors: Alexandre Decan, Eleni Constantinou, Tom Mens, Henrique Rocha
   kind: Journal
   year: 2020
-  published: Journal of Systems and Software, 10.1016/j.jss.2020.110573, 2020
-  link: https://www.sciencedirect.com/science/article/pii/S0164121220300546?via%3Dihub
+  published: Journal of Systems and Software
+  link: https://www.doi.org/10.1016/j.jss.2020.110573
   link2: https://decan.lexpage.net/files/JSS-2020.pdf
 - title: "A Large Empirical Assessment of the Role of Data Balancing in Machine-Learning-based Code Smell Detection"
   authors: Fabiano Pecorelli, Dario Di Nucci, Coen De Roover and Andrea De Lucia
@@ -41,17 +58,13 @@
   year: 2020
   published: Elsevier Journal of Systems and Software, 2020
   link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-02.pdf
-- title: "A multi-dimensional analysis of technical lag in Debian-based Docker images"
-  authors: Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona and Gregorio Robles
-  kind: Journal
-  year: 2020
-  published: Empirical Software Engineering, in press, 2020
 - title: "Sismic - A Python library for statechart execution and testing"
   authors: Alexandre Decan, Tom Mens
   kind: Journal
   year: 2020
-  published: SoftwareX, 10.1016/j.softx.2020.100590, 2020
+  published: SoftwareX
   link: https://www.sciencedirect.com/science/article/pii/S2352711020303034
+  link2: https://doi.org/10.1016/j.softx.2020.100590
 - title: "Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution"
   authors:  Ruben Opdebeeck, Ahmed Zerouali, Camilo Velázquez-Rodríguez and Coen De Roover
   kind: Conference
@@ -80,12 +93,12 @@
   authors: Guiseppe Antonio Pierro, Henrique Rocha, Roberto Tonelli, and Stéphane Ducasse.
   kind: Workshop
   year: 2020
-  published: IWBOSE2020 (3rd International Workshop on Blockchain Oriented Software Engineering). February 18, 2020 | co-located with SANER 2020, London, Ontario, Canada
+  published: 3rd International Workshop on Blockchain Oriented Software Engineering (IWBOSE)). February 18, 2020. co-located with SANER 2020, London, Ontario, Canada
 - title: "Semi-automatic Test Case Expansion for Mutation Testing "
   authors: Zhong Xi Lu, Sten Vercammen, and Serge Demeyer
   kind: Workshop
   year: 2020
-  published: VST2020 (3rd Workshop on Validation, Analysis and Evolution of Software Tests). February 18, 2020 | co-located with SANER 2020, London, Ontario, Canada
+  published: VST2020 (3rd Workshop on Validation, Analysis and Evolution of Software Tests). February 18, 2020. Co-located with SANER 2020, London, Ontario, Canada
 - title: "Mutant Density: A Measure of Fault-Sensitive Complexity"
   authors: Ali Parsai, Serge Demeyer
   kind: Workshop
