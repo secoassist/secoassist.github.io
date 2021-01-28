@@ -8,8 +8,8 @@
   authors: Mehdi Golzadeh, Alexandre Decan, Damien Legay, Tom Mens
   kind: Journal
   year: 2021
-  published: Journal of Systems and Software
-  link: https://arxiv.org/abs/2010.03303
+  published: Journal of Systems and Software, Volume 175
+  link: https://doi.org/10.1016/j.jss.2021.110911
 - title: "A multi-dimensional analysis of technical lag in Debian-based Docker images"
   authors: Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona and Gregorio Robles
   kind: Journal
