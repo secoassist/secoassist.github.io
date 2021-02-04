@@ -252,7 +252,6 @@
   year: 2019
   published: In Proceedings IWST 2019 (International Workshop on Smalltalk Technologies). Cologne, 2019
   link: https://www.stamp-project.eu/view/Blog/DSpot_Pharo_Smalltalk
-  
 - title: "On the Usage of Badges in Open Source Packages on GitHub"
   authors: Damien Legay, Alexandre Decan, Tom Mens
   published: Proceedings of the 18th Belgium-Netherlands Software Evolution Workshop, Brussels, Belgium, 28-11-2019
@@ -290,6 +289,13 @@
   year: 2018
   published: IEEE Transactions on Software Engineering
   link: https://ieeexplore.ieee.org/abstract/document/8453036
+- title:  A method for testing and validating executable statechart models
+  authors: Tom Mens, Alexandre Decan, Nikolaos Spanoudakis
+  kind: Journal
+  published: Software & Systems Modeling
+  year: 2018
+  link: https://doi.org/10.1007/s10270-018-0676-3
+  link2: https://decan.lexpage.net/files/SOSYM-2018.pdf
 - title: On the evolution of technical lag in the npm package dependency network
   authors: Alexandre Decan, Tom Mens, Eleni Constantinou
   kind: Conference
