@@ -21,7 +21,8 @@
   authors: Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona, Gregorio Robles
   kind: Journal
   year: 2021
-  published: Empirical Software Engineering
+  published: Empirical Software Engineering, Volume 26 (Issue 19)
+  link: https://doi.org/10.1007/s10664-020-09908-6
 - title: "MUTAMA: An Automated Multi-label Tagging Approach for Software Libraries on Maven"
   authors: Camilo Velázquez-Rodríguez, Coen De Roover
   kind: Presentation
