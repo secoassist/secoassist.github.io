@@ -1,3 +1,18 @@
+- title: "A Quantitative Assessment of Package Freshness in Linux Distributions"
+  authors: Damien Legay, Alexandre Decan, Tom Mens
+  kind: Workshop
+  year: 2021
+  published: 4th ICSE Workshop on Software Health (SoHeal)
+- title: "Does the duration of rapid release cycles affect the bug handling activity?"
+  authors: Thorn Jansen, Zeinab Abou Khalil, Eleni Constantinou, Tom Mens
+  kind: Workshop
+  year: 2021
+  published: 4th ICSE Workshop on Software Health (SoHeal)
+- title: "Identifying bot activity in GitHub pull request and issue comments"
+  authors: Mehdi Golzadeh, Alexandre Decan, Eleni Constantinou, Tom Mens
+  kind: Workshop
+  year: 2021
+  published: 3rd ICSE Workshop on Bots in Software Engineering (BotSE)
 - title: "Understanding the Impact of Release Policies on Software Development Processes"
   authors: Zeinab Abou Khalil
   kind: PhD Thesis
