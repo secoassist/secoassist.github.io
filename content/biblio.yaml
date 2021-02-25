@@ -110,7 +110,8 @@
   kind: Conference
   published: 36th International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia (virtual), 2020
   year: 2020
-  link: https://arxiv.org/pdf/2007.16123.pdf
+  link: https://doi.org/10.1109/ICSME46990.2020.00072
+  link2: https://arxiv.org/pdf/2007.16123.pdf
 - title: "A Delta-Debugging Approach to Assessing the Resilience of Actor Programs through Run-time Test Perturbations"
   authors: Jonas De Bleser, Dario Di Nucci, Coen De Roover
   kind: Conference
