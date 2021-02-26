@@ -106,22 +106,37 @@
 - title: "Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution"
   authors:  Ruben Opdebeeck, Ahmed Zerouali, Camilo Velázquez-Rodríguez, Coen De Roover
   kind: Conference
-  published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) co-located with ICSME , Adelaide, Australia (virtual), 2020
+  published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)
   year: 2020
   link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-08.pdf
   link2: https://youtu.be/RrVnpJAYBes
 - title: "MUTAMA: An Automated Multi-label Tagging Approach for Software Libraries on Maven"
   authors: Camilo Velázquez-Rodríguez, Coen De Roover
   kind: Conference
-  published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) co-located with ICSME , Adelaide, Australia (virtual), 2020
+  published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)
   year: 2020
 - title: "On Package Freshness in Linux Distributions"
   authors: Damien Legay, Alexandre Decan, Tom Mens
   kind: Conference
-  published: 36th International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia (virtual), 2020
+  published: 36th International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia (virtual)
   year: 2020
   link: https://doi.org/10.1109/ICSME46990.2020.00072
   link2: https://arxiv.org/pdf/2007.16123.pdf
+- title: Adapting Queries to Database Schema Changes in Hybrid Polystores
+  authors: Jérôme Fink, Maxime Gobert, Anthony Cleve
+  kind: Conference
+  year: 2020
+  published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM ), NIER track (Best paper award)
+- title: Schema Evolution in Hybrid Databases Systems
+  authors: Maxime Gobert
+  kind: Conference
+  published: 46th International Conference on Very Large Databases (VLDB), PhD track
+  year: 2020
+- title: On the Prevalence, Impact, and Evolution of SQL code smells in Data-Intensive Systems
+  authors: Biruk Asmare Muse, Mohamed Rahman, Csaba Nagy, Anthony Cleve, Foutse Khomh, Giuliano Antoniol
+  kind: Conference
+  pulished: 17th International Conference on Mining Software Repositories (MSR),
+  year: 2020
 - title: "A Delta-Debugging Approach to Assessing the Resilience of Actor Programs through Run-time Test Perturbations"
   authors: Jonas De Bleser, Dario Di Nucci, Coen De Roover
   kind: Conference
