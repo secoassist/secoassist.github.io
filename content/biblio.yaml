@@ -1,3 +1,13 @@
+- title: "A Dataset of Ansible Galaxy Roles and Their Evolution"
+  authors: Ruben Opdebeeck, Ahmed Zerouali and Coen De Roover
+  kind: Conference
+  year: 2021
+  published: Proceedings of the 18th International Conference on Mining Software Repositories (MSR 2021)
+- title: "Identifying Versions of Libraries used in Stack Overflow Code Snippets"
+  authors: Ahmed Zerouali, Camilo Velázquez-Rodríguez and Coen De Roover
+  kind: Conference
+  year: 2021
+  published: Proceedings of the 18th International Conference on Mining Software Repositories (MSR 2021)
 - title: "A Quantitative Assessment of Package Freshness in Linux Distributions"
   authors: Damien Legay, Alexandre Decan, Tom Mens
   kind: Workshop
