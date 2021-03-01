@@ -3,6 +3,14 @@
   kind: PhD Thesis
   year: 2021
   published: University of Mons (Belgium) and University of Lille (France), 26 February 2021
+  link: https://di.umons.ac.be/details.aspx?pub=839b25bf-cadb-4f8e-ae5a-d206097196ce
+  link2: https://youtu.be/dzqyjUSs7-U
+- title: "Understanding the Impact of Release Policies on Software Development Processes"
+  authors: Zeinab Abou Khalil
+  kind: Presentation
+  year: 2021
+  published: Public PhD defense, 26 February 2021
+  link: https://youtu.be/dzqyjUSs7-U
 - title: "On the impact of release policies on bug handling activity: A case study of Eclipse"
   authors: Zeinab Abou Khalil, Eleni Constantinou, Tom Mens, Laurence Duchien
   kind: Journal
