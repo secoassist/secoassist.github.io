@@ -34,6 +34,11 @@
   kind: Conference
   year: 2021
   published: 18th International Conference on Mining Software Repositories (MSR)
+- title: "Challenges and Perils of Testing Database Manipulation Code"
+  authors: Maxime Gobert, Csaba Nagy, Henrique Rocha, Serge Demeyer, Anthony Cleve
+  kind: Conference
+  published: 33rd International Conference on Advanced Information Systems Engineering (CAiSE)
+  year: 2021
 - title: "Identifying Versions of Libraries used in Stack Overflow Code Snippets"
   authors: Ahmed Zerouali, Camilo Velázquez-Rodríguez and Coen De Roover
   kind: Conference
