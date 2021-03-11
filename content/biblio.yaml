@@ -57,6 +57,7 @@
 - title: "Identifying bot activity in GitHub pull request and issue comments"
   authors: Mehdi Golzadeh, Alexandre Decan, Eleni Constantinou, Tom Mens
   kind: Workshop
+  link: https://arxiv.org/abs/2103.06042
   year: 2021
   published: 3rd ICSE Workshop on Bots in Software Engineering (BotSE)
 - title: "Lost in zero space: Can we trust in depending on packages with major version 0?"
