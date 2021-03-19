@@ -49,11 +49,13 @@
   kind: Workshop
   year: 2021
   published: 4th ICSE Workshop on Software Health (SoHeal)
+  link: https://arxiv.org/abs/2103.09066
 - title: "Does the duration of rapid release cycles affect the bug handling activity?"
   authors: Thorn Jansen, Zeinab Abou Khalil, Eleni Constantinou, Tom Mens
   kind: Workshop
   year: 2021
   published: 4th ICSE Workshop on Software Health (SoHeal)
+  link: https://arxiv.org/abs/2103.08648
 - title: "Identifying bot activity in GitHub pull request and issue comments"
   authors: Mehdi Golzadeh, Alexandre Decan, Eleni Constantinou, Tom Mens
   kind: Workshop
