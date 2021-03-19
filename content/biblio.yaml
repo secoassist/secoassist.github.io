@@ -108,7 +108,7 @@
   authors: Fabiano Pecorelli, Dario Di Nucci, Coen De Roover, Andrea De Lucia
   kind: Journal
   year: 2020
-  published: Elsevier Journal of Systems and Software, 2020
+  published: Elsevier Journal of Systems and Software
   link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-02.pdf
 - title: "Sismic - A Python library for statechart execution and testing"
   authors: Alexandre Decan, Tom Mens
@@ -132,7 +132,7 @@
 - title: "On Package Freshness in Linux Distributions"
   authors: Damien Legay, Alexandre Decan, Tom Mens
   kind: Conference
-  published: 36th International Conference on Software Maintenance and Evolution (ICSME), Adelaide, Australia (virtual)
+  published: 36th International Conference on Software Maintenance and Evolution (ICSME)
   year: 2020
   link: https://doi.org/10.1109/ICSME46990.2020.00072
   link2: https://arxiv.org/pdf/2007.16123.pdf
@@ -155,13 +155,18 @@
   authors: Jonas De Bleser, Dario Di Nucci, Coen De Roover
   kind: Conference
   year: 2020
-  published: 1st International Conference on Automated Software Testing (AST), Seoul (South Korea)
+  published: 1st International Conference on Automated Software Testing (AST)
   link: http://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-01.pdf
 - title: "Are the Gas Prices Oracle Reliable? A Case Study using the EthGasStation"
   authors: Guiseppe Antonio Pierro, Henrique Rocha, Roberto Tonelli, Stéphane Ducasse
   kind: Workshop
   year: 2020
-  published: 3rd International Workshop on Blockchain Oriented Software Engineering (IWBOSE
+  published: 3rd International Workshop on Blockchain Oriented Software Engineering (IWBOSE)
+- title: "Evaluating a bot detection model on git commit messages"
+  authors: Mehdi Golzadeh, Alexandre Decan, Tom Mens
+  kind: Workshop
+  year: 2020
+  published: CEUR Workshop Proceedings of BENEVOL 2020 workshop
 - title: "Semi-automatic Test Case Expansion for Mutation Testing"
   authors: Zhong Xi Lu, Sten Vercammen, Serge Demeyer
   kind: Workshop
