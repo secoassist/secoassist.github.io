@@ -3,6 +3,13 @@
 # category: should be either "tool" or "dataset"
 # paper: should be the exact title of a paper from biblio.yaml, if provided;
 
+- name: BoDeGiC
+  category: tool
+  year: 2020
+  authors: Mehdi Golzadeh
+  institution: University of Mons
+  description: BoDeGiC is an automated tool to identify bots in GitHub repositories by analysing git commit messages.
+  homepage: https://github.com/mehdigolzadeh/BoDeGiC
 - name: Ansible Galaxy roles, versions, and metadata.
   category: dataset
   year: 2020
