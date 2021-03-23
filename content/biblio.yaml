@@ -167,6 +167,7 @@
 - title: "Evaluating a bot detection model on git commit messages"
   authors: Mehdi Golzadeh, Alexandre Decan, Tom Mens
   kind: Workshop
+  link: https://arxiv.org/abs/2103.11779
   year: 2020
   published: CEUR Workshop Proceedings of BENEVOL 2020 workshop
 - title: "Semi-automatic Test Case Expansion for Mutation Testing"
