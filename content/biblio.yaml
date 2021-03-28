@@ -34,6 +34,7 @@
   kind: Conference
   year: 2021
   published: 18th International Conference on Mining Software Repositories (MSR)
+  link: http://soft.vub.ac.be/Publications/2021/vub-tr-soft-21-03.pdf
 - title: "Challenges and Perils of Testing Database Manipulation Code"
   authors: Maxime Gobert, Csaba Nagy, Henrique Rocha, Serge Demeyer, Anthony Cleve
   kind: Conference
@@ -44,6 +45,7 @@
   kind: Conference
   year: 2021
   published: Proceedings of the 18th International Conference on Mining Software Repositories (MSR)
+  link: http://soft.vub.ac.be/Publications/2021/vub-tr-soft-21-02.pdf
 - title: "A Quantitative Assessment of Package Freshness in Linux Distributions"
   authors: Damien Legay, Alexandre Decan, Tom Mens
   kind: Workshop
