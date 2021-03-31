@@ -5,6 +5,11 @@
   published: University of Mons (Belgium) and University of Lille (France), 26 February 2021
   link: https://di.umons.ac.be/details.aspx?pub=839b25bf-cadb-4f8e-ae5a-d206097196ce
   link2: https://youtu.be/dzqyjUSs7-U
+- title: "On the Usage of JavaScript, Python and Ruby Packages in Docker Hub images Science of Computer Programming"
+  authors: Ahmed Zerouali, Tom Mens, Coen De Roover
+  kind: Journal
+  year: 2021
+  published: Science of Computer Programming (in press)
 - title: "Understanding the Impact of Release Policies on Software Development Processes"
   authors: Zeinab Abou Khalil
   kind: Presentation
