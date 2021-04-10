@@ -10,6 +10,13 @@
   kind: Journal
   year: 2021
   published: Science of Computer Programming (in press)
+- title: Lost in Zero Space - An Empirical Comparison of 0.y.z Releases in Software Package Distributions
+  authors: Alexandre Decan, Tom Mens
+  kind: Journal
+  year: 2021
+  published: Science of Computer Programming (in press)
+  link: https://doi.org/10.1016/j.scico.2021.102656
+  link2: https://decan.lexpage.net/files/SCICO-2021.pdf
 - title: "Understanding the Impact of Release Policies on Software Development Processes"
   authors: Zeinab Abou Khalil
   kind: Presentation
