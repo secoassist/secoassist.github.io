@@ -1,3 +1,9 @@
+- title: "Does the duration of rapid release cycles affect the bug handling activity?"
+  authors: Thorn Jansen, Zeinab Abou Khalil, Eleni Constantinou, Tom Mens
+  kind: Workshop
+  year: 2021
+  published: 4th ICSE Workshop on Software Health (SoHeal)
+  link: https://arxiv.org/pdf/2103.08648.pdf
 - title: "Understanding the Impact of Release Policies on Software Development Processes"
   authors: Zeinab Abou Khalil
   kind: PhD Thesis
