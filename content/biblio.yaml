@@ -35,6 +35,7 @@
   year: 2021
   published: Journal of Systems and Software, Volume 175
   link: https://doi.org/10.1016/j.jss.2021.110911
+  link2: https://youtu.be/Qv_1EMSw8kQ
 - title: "A multi-dimensional analysis of technical lag in Debian-based Docker images"
   authors: Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona, Gregorio Robles
   kind: Journal
@@ -74,6 +75,7 @@
   authors: Mehdi Golzadeh, Alexandre Decan, Eleni Constantinou, Tom Mens
   kind: Workshop
   link: https://arxiv.org/abs/2103.06042
+  link2: https://youtu.be/IY-h34vGiDA
   year: 2021
   published: 3rd ICSE Workshop on Bots in Software Engineering (BotSE)
 - title: "Lost in zero space: Can we trust in depending on packages with major version 0?"
