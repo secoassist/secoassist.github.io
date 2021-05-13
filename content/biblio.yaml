@@ -1,3 +1,15 @@
+- title: "A ground-truth dataset and classification model for detecting bots in GitHub issue and PR comments"
+  authors: Mehdi Golzadeh
+  kind: Presentation
+  year: 2021
+  published: 3rd ICSE Workshop on Bots in Software Engineering (BotSE)
+  link: https://youtu.be/Qv_1EMSw8kQ
+- title: "Identifying bot activity in GitHub pull request and issue comments"
+  authors: Mehdi Golzadeh
+  kind: Presentation
+  year: 2021
+  published: 3rd ICSE Workshop on Bots in Software Engineering (BotSE)
+  link: https://youtu.be/IY-h34vGiDA
 - title: "Understanding the Impact of Release Policies on Software Development Processes"
   authors: Zeinab Abou Khalil
   kind: PhD Thesis
