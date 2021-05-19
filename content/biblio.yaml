@@ -103,7 +103,6 @@
   link: https://youtu.be/ecrZsmruV30
   year: 2020
   published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) co-located with ICSME , Adelaide, Australia (virtual), 2020
-  link: https://youtu.be/ecrZsmruV30
 - title: "Is my software ecosystem healthy? It depends!"
   authors: Tom Mens
   kind: Presentation
@@ -230,7 +229,6 @@
   published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
   link: https://youtu.be/2ys1fmFWRX4
   year: 2020
-  link: https://www.youtube.com/watch?v=2ys1fmFWRX4
 - title: "Bot or not? Detecting bots in GitHub pull request activity based on comment similarity"
   authors: Mehdi Golzadeh, Damien Legay, Alexandre Decan, Tom Mens
   kind: Workshop
