@@ -100,6 +100,7 @@
 - title: "MUTAMA: An Automated Multi-label Tagging Approach for Software Libraries on Maven"
   authors: Camilo Velázquez-Rodríguez, Coen De Roover
   kind: Presentation
+  link: https://youtu.be/ecrZsmruV30
   year: 2020
   published: 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) co-located with ICSME , Adelaide, Australia (virtual), 2020
   link: https://youtu.be/ecrZsmruV30
@@ -227,6 +228,7 @@
   authors: Camilo Velázquez-Rodríguez, Coen De Roover
   kind: Presentation
   published: 3rd International Workshop on Software Health (SoHeal), Seoul, South Korea, 2020
+  link: https://youtu.be/2ys1fmFWRX4
   year: 2020
   link: https://www.youtube.com/watch?v=2ys1fmFWRX4
 - title: "Bot or not? Detecting bots in GitHub pull request activity based on comment similarity"
