@@ -21,7 +21,9 @@
   authors: Ahmed Zerouali, Tom Mens, Coen De Roover
   kind: Journal
   year: 2021
-  published: Science of Computer Programming (in press)
+  published: Science of Computer Programming 
+  link: https://doi.org/10.1016/j.scico.2021.102653
+  link2: http://soft.vub.ac.be/Publications/2021/vub-tr-soft-21-05.pdf
 - title: Lost in Zero Space - An Empirical Comparison of 0.y.z Releases in Software Package Distributions
   authors: Alexandre Decan, Tom Mens
   kind: Journal
