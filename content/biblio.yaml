@@ -1,4 +1,10 @@
-- title: "A ground-truth dataset and classification model for detecting bots in GitHub issue and PR comments"
+- title: "Identifying Versions of Libraries used in Stack Overflow Code Snippets"
+  authors: Ahmed Zerouali, Camilo Velázquez-Rodríguez and Coen De Roover
+  kind: Presentation
+  year: 2021
+  published: the 18th International Conference on Mining Software Repositories (MSR)
+  link: https://youtu.be/P6zeRvyCApE
+ - title: "A ground-truth dataset and classification model for detecting bots in GitHub issue and PR comments"
   authors: Mehdi Golzadeh
   kind: Presentation
   year: 2021
