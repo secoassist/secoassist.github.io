@@ -62,6 +62,17 @@
   year: 2021
   published: Empirical Software Engineering, Volume 26 (Issue 19)
   link: https://doi.org/10.1007/s10664-020-09908-6
+- title: "Prioritising Server Side Reachability via Inter-process Concolic Testing"
+  authors: Maarten Vandercammen, Laurent Christophe, Dario Di Nucci, Wolfgang De Meuter, Coen De Roover
+  kind: Journal
+  year: 2021
+  published: The Art, Science, and Engineering of Programming
+- title: "Back to the Past - Analysing Backporting Practices in Package Dependency Networks"
+  authors: Alexandre Decan, Tom Mens, Ahmed Zerouali and Coen De Roover
+  kind: Journal
+  year: 2021
+  published: IEEE Transactions on Software Engineering (in press)
+  link: https://decan.lexpage.net/files/TSE-2021.pdf
 - title: "A Dataset of Ansible Galaxy Roles and Their Evolution"
   authors: Ruben Opdebeeck, Ahmed Zerouali and Coen De Roover
   kind: Conference
@@ -124,11 +135,6 @@
   year: 2020
   published: SATTOSE 2020 keynote, Vrije Universiteit Amsterdam, The Netherlands, 1 July 2020
   link: https://www.slideshare.net/tommens/on-the-fragility-of-open-source-software-packaging-ecosystems
-- title: "Prioritising Server Side Reachability via Inter-process Concolic Testing"
-  authors: Maarten Vandercammen, Laurent Christophe, Dario Di Nucci, Wolfgang De Meuter, Coen De Roover
-  kind: Journal
-  year: 2021
-  published: The Art, Science, and Engineering of Programming
 - title: "Comparing dependency issues across software package distributions"
   authors: Tom Mens
   kind: Presentation
