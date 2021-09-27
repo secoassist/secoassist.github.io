@@ -71,8 +71,9 @@
   authors: Alexandre Decan, Tom Mens, Ahmed Zerouali and Coen De Roover
   kind: Journal
   year: 2021
-  published: IEEE Transactions on Software Engineering (in press)
-  link: https://decan.lexpage.net/files/TSE-2021.pdf
+  published: IEEE Transactions on Software Engineering
+  link: https://doi.org/10.1109/TSE.2021.3112204
+  link2: https://decan.lexpage.net/files/TSE-2021.pdf
 - title: "A Dataset of Ansible Galaxy Roles and Their Evolution"
   authors: Ruben Opdebeeck, Ahmed Zerouali and Coen De Roover
   kind: Conference
