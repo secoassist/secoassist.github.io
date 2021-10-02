@@ -1,10 +1,3 @@
-- title: "On the practice of semantic versioning for Ansible galaxy roles: An empirical study and a change classification model"
-  authors: Ruben Opdebeeck, Ahmed Zerouali, Camilo Velázquez-Rodríguez, Coen De Roover
-  kind: Journal
-  year: 2021
-  published: Journal of Systems and Software, Volume 182
-  link: https://doi.org/10.1016/j.jss.2021.111059
-  link2: https://soft.vub.ac.be/Publications/2021/vub-tr-soft-21-08.pdf
 - title: "Identifying Versions of Libraries used in Stack Overflow Code Snippets"
   authors: Ahmed Zerouali, Camilo Velázquez-Rodríguez and Coen De Roover
   kind: Presentation
@@ -81,6 +74,13 @@
   published: IEEE Transactions on Software Engineering
   link: https://doi.org/10.1109/TSE.2021.3112204
   link2: https://decan.lexpage.net/files/TSE-2021.pdf
+- title: "On the practice of semantic versioning for Ansible galaxy roles: An empirical study and a change classification model"
+  authors: Ruben Opdebeeck, Ahmed Zerouali, Camilo Velázquez-Rodríguez, Coen De Roover
+  kind: Journal
+  year: 2021
+  published: Journal of Systems and Software, Volume 182
+  link: https://doi.org/10.1016/j.jss.2021.111059
+  link2: https://soft.vub.ac.be/Publications/2021/vub-tr-soft-21-08.pdf
 - title: "A Dataset of Ansible Galaxy Roles and Their Evolution"
   authors: Ruben Opdebeeck, Ahmed Zerouali and Coen De Roover
   kind: Conference
