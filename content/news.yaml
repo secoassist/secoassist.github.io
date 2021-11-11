@@ -6,18 +6,22 @@
   date: 2021-09-16
   summary: |
     <p>Researchers from UMONS and VUB published an article in IEEE Transactions on Software Engineering on [<a href="https://doi.org/10.1109/TSE.2021.3112204">Analysing Backporting Practices in Package Dependency Networks</a>].</p>
+- title: SCP article on major zero versioning in package dependency networks
+  date: 2021-08-01
+  summary: |
+    <p>Lost in zero space? Researchers from UMONS published an article in Elsevier Science of Computer Programming on [<a href="https://doi.org/10.1016/j.scico.2021.102656">An empirical comparison of 0.y.z releases in software package distributions</a>]</p>
 - title: Public PhD defense of Zeinab Abou Khalil
   date: 2021-02-26
   summary: |
     <p>Zeinab Abou Khalil publicly defended her PhD dissertation on "Understanding the impact of release policies on software development processes" jointly supervised by Tom Mens (University of Mons, Belgium) and Laurence Duchien (Universit&eacute; de Lille, France).</p>
-- title: Article published in Empirical Software Engineering journal 
+- title: EMSE article on outdatedness and technical lack in Docker images
   date: 2021-02-21
   summary: |
     <p>Joint research with UMONS, VUB and URJC (Madrid) on the outdatedness, security and technical lag of Debian-based Docker images is <a href="https://doi.org/10.1007/s10664-020-09908-6">published in the Empirical Software Engineering journal</a>.</p>
 - title: SECO-ASSIST Research Seminar 
   date: 2019-09-04
   summary: |
-    <p>A one-day event will be held at the University of Mons on September 4th. More information <a href="https://secoassist.github.io/seminar">on this page</a>.</p>
+    <p>A one-day gathering of the SECO-ASSIST researchers. More information <a href="https://secoassist.github.io/seminar">on this page</a>.</p>
 - title: Presentation of npm software ecosystem health at Drupal Camp Belgium
   date: 2018-11-24
   summary: |
