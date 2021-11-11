@@ -1,8 +1,12 @@
 - title: PackagingCon 2021 talks by SECO-ASSIST researchers
   date: 2021-11-11
   summary: |
-    <p>During the first (virtual) conference on package mangers, PackagingCon 2021, Ahmed Zerouali (VUB) and Tom Mens (UMONS) presented their research results on the topics of technical lag, outdatedness of software packages, and semantic versioning practices.</p>
-- title: Public PhD defense of Zeinab Abou Khalil
+    <p>During the first (virtual) conference on package managers, PackagingCon 2021, Ahmed Zerouali (VUB) and Tom Mens (UMONS) presented their research results on the topics of technical lag, outdatedness of software packages, and semantic versioning practices.</p>
+- title: TSE article on backporting practices in package dependency networks
+  date: 2021-09-16
+  summary: |
+    <p>Researchers from UMONS and VUB published an article in IEEE Transactions on Software Engineering on [<a href="https://doi.org/10.1109/TSE.2021.3112204">Analysing Backporting Practices in Package Dependency Networks</a>].</p>
+A- title: Public PhD defense of Zeinab Abou Khalil
   date: 2021-02-26
   summary: |
     <p>Zeinab Abou Khalil publicly defended her PhD dissertation on "Understanding the impact of release policies on software development processes" jointly supervised by Tom Mens (University of Mons, Belgium) and Laurence Duchien (Universit&eacute; de Lille, France).</p>
