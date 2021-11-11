@@ -1,11 +1,11 @@
 - title: "Comparing semantic versioning practices in Cargo, npm, Packagist and RubyGems"
-  author: Tom Mens
+  authors: Tom Mens
   kind: Presentation
   year: 2021
   published: PackagingCon 2021
   link: https://www.slideshare.net/tommens/comparing-semantic-versioning-practices-in-cargo-npm-packagist-and-rubygems
 - title: "Quantifying outdatedness using the technical lag measurement"
-  author: Ahmed Zerouali
+  authors: Ahmed Zerouali
   kind: Presentation
   year: 2021
   published: PackagingCon 2021
