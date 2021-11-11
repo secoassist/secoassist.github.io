@@ -1,8 +1,19 @@
-- title: "Identifying Versions of Libraries used in Stack Overflow Code Snippets"
-  authors: Ahmed Zerouali, Camilo Velázquez-Rodríguez and Coen De Roover
+- title: "Comparing semantic versioning practices in Cargo, npm, Packagist and RubyGems"
+  author: Tom Mens
   kind: Presentation
   year: 2021
-  published: the 18th International Conference on Mining Software Repositories (MSR)
+  published: PackagingCon 2021
+  link: https://www.slideshare.net/tommens/comparing-semantic-versioning-practices-in-cargo-npm-packagist-and-rubygems
+- title: "Quantifying outdatedness using the technical lag measurement"
+  author: Ahmed Zerouali
+  kind: Presentation
+  year: 2021
+  published: PackagingCon 2021
+- title: "Identifying Versions of Libraries used in Stack Overflow Code Snippets"
+  authors: Ahmed Zerouali
+  kind: Presentation
+  year: 2021
+  published: 18th International Conference on Mining Software Repositories (MSR)
   link: https://youtu.be/P6zeRvyCApE
 - title: "A ground-truth dataset and classification model for detecting bots in GitHub issue and PR comments"
   authors: Mehdi Golzadeh
