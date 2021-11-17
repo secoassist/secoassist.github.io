@@ -1,10 +1,15 @@
+- title: "Reuse and Maintenance Practices among Divergent Forks in Three Software Ecosystems"
+  authors: John Businge, Moses Openja, Sarah Nadi, Thorsten Berger
+  kind: Journal
+  year: 2021
+  published: Empirical Software Engineering
 - title: "An Empirical Study of (Multi-) Database Models in Open-Source Projects"
   authors: Benats Pol, Gobert Maxime, Meurice Loup, Nagy Csaba and Cleve Anthony
   kind: Conference
   year: 2021
   published: International Conference on Conceptual Modeling (ER 2021)
   link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_8
- - title: "Conceptual Modeling of Hybrid Polystores"
+- title: "Conceptual Modeling of Hybrid Polystores"
   authors: Gobert Maxime, Meurice Loup and Cleve Anthony
   kind: Conference
   year: 2021
@@ -237,6 +242,18 @@
   kind: Workshop
   year: 2020
   published: 3rd International Workshop on Blockchain Oriented Software Engineering (IWBOSE)
+- title: "An Empirical Study of Technical Debt Management as a Motivation for Forking"
+  authors: 	Mercy Njima, John Businge, Serge Demeyer
+  kind: Workshop
+  link: http://ceur-ws.org/Vol-2912/paper2.pdf
+  year: 2020
+  published: CEUR Workshop Proceedings of BENEVOL 2020 workshop
+- title: "An Empirical Investigation of Forks as Variants in the npm Package Distribution"
+  authors: John Businge, Alexandre Decan, Ahmed Zerouali, Tom Mens, Serge Demeyer
+  kind: Workshop
+  link: http://ceur-ws.org/Vol-2912/paper1.pdf
+  year: 2020
+  published: CEUR Workshop Proceedings of BENEVOL 2020 workshop
 - title: "Evaluating a bot detection model on git commit messages"
   authors: Mehdi Golzadeh, Alexandre Decan, Tom Mens
   kind: Workshop
