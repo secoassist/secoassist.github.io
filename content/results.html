@@ -8,26 +8,25 @@
 
 {% set biblio = load_yaml('biblio.yaml') %}
 
-{% set last = {'year': -1, 'kind': None} %}
 
-{% for item in biblio|sort(reverse=True, attribute='year')|rejectattr('kind', 'equalto', 'Presentation') %}
-  {% if last['year'] != item.year %}
-    <h3>{{ item.year }} {{ year_last }}</h3>
-    {# Ugly hack but it works #}
-    {% if last.update({'year': item.year, 'kind': None}) %}{% endif %}
-  {% endif %}
-  {% if last['kind'] != item.kind %}
-    {% if last.update({'kind': item.kind}) %}{% endif %}
-    <h4>{{ item.kind }}</h4>
-  {% endif %}
-  <p>
-    <strong>{{ item.title }}</strong><br />
-    {{ item.authors }}
-    {% if item.published %}<br />{{ item.published }}{% endif %}
-    {% if item.misc %}<br />{{ item.misc }}{% endif %}
-    {% if item.link %}<br /><a href="{{ item.link }}">{{ item.link }}</a>{% endif %}
-    {% if item.link2 %}<br /><a href="{{ item.link2 }}">{{ item.link2 }}</a>{% endif %}
-  </p>
+
+{% for group in biblio|groupby("year")|reverse %}
+<h3>{{ group.grouper }}</h3>
+  {% for kind in ['PhD Thesis', 'Journal', 'Conference', 'Workshop'] %}
+    {% for item in group.list|selectattr('kind', 'equalto', kind) %}
+      {% if loop.first %}
+      <h4>{{ kind }}</h4>
+      {% endif %}
+      <p>
+        <strong>{{ item.title }}</strong><br />
+        {{ item.authors }}
+        {% if item.published %}<br />{{ item.published }}{% endif %}
+        {% if item.misc %}<br />{{ item.misc }}{% endif %}
+        {% if item.link %}<br /><a href="{{ item.link }}">{{ item.link }}</a>{% endif %}
+        {% if item.link2 %}<br /><a href="{{ item.link2 }}">{{ item.link2 }}</a>{% endif %}
+    </p>
+    {% endfor %}
+  {% endfor %}
 {% endfor %}
 
 {% endblock %}
