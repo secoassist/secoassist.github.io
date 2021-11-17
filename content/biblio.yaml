@@ -1,3 +1,9 @@
+- title: "Reuse and Maintenance Practices among Divergent Forks in Three Software Ecosystems"
+  authors: John Businge, Moses Openja, Sarah Nadi, Thorsten Berger
+  kind: Journal
+  year: 2021
+  published: Empirical Software Engineering
+  link: 
 - title: "Comparing semantic versioning practices in Cargo, npm, Packagist and RubyGems"
   authors: Tom Mens
   kind: Presentation
