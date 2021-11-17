@@ -3,7 +3,18 @@
   kind: Journal
   year: 2021
   published: Empirical Software Engineering
-  link: 
+- title: "An Empirical Study of (Multi-) Database Models in Open-Source Projects"
+  authors: Benats Pol, Gobert Maxime, Meurice Loup, Nagy Csaba and Cleve Anthony
+  kind: Conference
+  year: 2021
+  published: International Conference on Conceptual Modeling (ER 2021)
+  link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_8
+- title: "Conceptual Modeling of Hybrid Polystores"
+  authors: Gobert Maxime, Meurice Loup and Cleve Anthony
+  kind: Conference
+  year: 2021
+  published: International Conference on Conceptual Modeling (ER 2021)
+  link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_10
 - title: "Comparing semantic versioning practices in Cargo, npm, Packagist and RubyGems"
   authors: Tom Mens
   kind: Presentation
