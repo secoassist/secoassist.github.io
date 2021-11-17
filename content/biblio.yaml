@@ -231,6 +231,18 @@
   kind: Workshop
   year: 2020
   published: 3rd International Workshop on Blockchain Oriented Software Engineering (IWBOSE)
+- title: "An Empirical Study of Technical Debt Management as a Motivation for Forking"
+  authors: 	Mercy Njima, John Businge, Serge Demeyer
+  kind: Workshop
+  link: http://ceur-ws.org/Vol-2912/paper2.pdf
+  year: 2020
+  published: CEUR Workshop Proceedings of BENEVOL 2020 workshop
+- title: "An Empirical Investigation of Forks as Variants in the npm Package Distribution"
+  authors: John Businge, Alexandre Decan, Ahmed Zerouali, Tom Mens, Serge Demeyer
+  kind: Workshop
+  link: http://ceur-ws.org/Vol-2912/paper1.pdf
+  year: 2020
+  published: CEUR Workshop Proceedings of BENEVOL 2020 workshop
 - title: "Evaluating a bot detection model on git commit messages"
   authors: Mehdi Golzadeh, Alexandre Decan, Tom Mens
   kind: Workshop
