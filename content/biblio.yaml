@@ -1,3 +1,24 @@
+- title: Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data
+  authors: Pooya Rostami Mazrae, Tom Mens
+  kind: Presentation
+  published: The 20th Belgium-Netherlands Software Evolution Workshop
+  year: 2021
+  link: https://youtu.be/wKe8Axqxkig
+
+- title: Predictive Modeling of Socio-Technical Health in Evolving Software Packaging Ecosystems
+  authors: Pooya Rostami Mazrae, Tom Mens
+  kind: Presentation
+  published: The 20th Belgium-Netherlands Software Evolution Workshop
+  year: 2021
+  link: https://youtu.be/qBToTtcE8Ks
+
+- title: Towards a Bot Dataset in GitHub Repositories for Cargo
+  authors: Natarajan Chidambaram, Tom Mens
+  kind: Presentation
+  published: The 20th Belgium-Netherlands Software Evolution Workshop
+  year: 2021
+  link: https://youtu.be/X1aYHm8sDOg
+  
 - title: Reuse and maintenance practices among divergent forks in 3 software ecosystems
   authors: John Businge, Moses Openja, Sarah Nadi, Thorsten Berger
   kind: Presentation
