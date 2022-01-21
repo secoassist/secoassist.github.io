@@ -2,7 +2,15 @@
   authors: Mehdi Golzadeh ,Alexandre Decan, Tom Mens
   kind: Conference
   year: 2022
-  published: Proceedings of the 29th edition of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
+  published: 29th International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
+  link: https://decan.lexpage.net/files/SANER-2022a.pdf
+
+- title: "Variant Forks - Motivations and Impediments"
+  authors: John Businge, Ahmed Zerouali, Alexandre Decan, Tom Mens, Serge Demeyer, Coen De Roover
+  kind: Conference
+  year: 2022
+  published: 29th International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
+  link: https://decan.lexpage.net/files/SANER-2022b.pdf
   
 - title: Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data
   authors: Pooya Rostami Mazrae, Tom Mens
