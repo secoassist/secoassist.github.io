@@ -1,3 +1,9 @@
+- title: "On the rise and fall of CI services in GitHub"
+  authors: Mehdi Golzadeh ,Alexandre Decan, Tom Mens
+  kind: Conference
+  year: 2022
+  published: Proceedings of the 29th edition of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
+  
 - title: Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data
   authors: Pooya Rostami Mazrae, Tom Mens
   kind: Presentation
