@@ -1,3 +1,10 @@
+- title: "Uncovering Library Features from API Usage on Stack Overflow"
+  authors: Camilo Velázquez-Rodríguez, Eleni Constantinou, Coen De Roover
+  kind: Conference
+  year: 2022
+  published: 29th International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
+  link: https://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-01.pdf
+
 - title: "On the rise and fall of CI services in GitHub"
   authors: Mehdi Golzadeh ,Alexandre Decan, Tom Mens
   kind: Conference
