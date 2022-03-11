@@ -1,3 +1,13 @@
+- title: "On the accuracy of bot detection techniques"
+  authors: Mehdi Golzadeh, Alexandre Decan, Natarajan Chidambaram
+  kind: Conference
+  published: 4th International ICSE Workshop on Bots in Software Engineering (BotSE)
+  year: 2022
+- title: "Leveraging Predictions From Multiple Repositories to Improve Bot Detection"
+  authors: Natarajan Chidambaram, Alexandre Decan, Mehdi Golzadeh
+  kind: Conference
+  published: 4th International ICSE Workshop on Bots in Software Engineering (BotSE)
+  year: 2022
 - title: "On Backporting Practices in Package Dependency Networks"
   authors: Tom Mens
   kind: Presentation
