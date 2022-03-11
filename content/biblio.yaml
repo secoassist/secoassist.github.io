@@ -1,3 +1,9 @@
+- title: "On Backporting Practices in Package Dependency Networks"
+  authors: Tom Mens
+  kind: Presentation
+  published: FOSDEM 2022 Composition and Dependency Management Devroom
+  year: 2022
+  link: https://fosdem.org/2022/schedule/event/on_backporting_practices_in_package_dependency_networks/
 - title: "HyDRa: A Framework for Modeling, Manipulating and Evolving Hybrid Polystores"
   authors: Maxime Gobert, Loup Meurice, Anthony Cleve
   kind: Conference
@@ -16,85 +22,76 @@
   year: 2022
   published: 29th International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
   link: https://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-01.pdf
-
 - title: "On the rise and fall of CI services in GitHub"
   authors: Mehdi Golzadeh, Alexandre Decan, Tom Mens
   kind: Conference
   year: 2022
   published: 29th International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
   link: https://decan.lexpage.net/files/SANER-2022a.pdf
-
 - title: "Variant Forks - Motivations and Impediments"
   authors: John Businge, Ahmed Zerouali, Alexandre Decan, Tom Mens, Serge Demeyer, Coen De Roover
   kind: Conference
   year: 2022
   published: 29th International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
-  link: https://decan.lexpage.net/files/SANER-2022b.pdf
-  
-- title: Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data
-  authors: Pooya Rostami Mazrae, Tom Mens
+  link: https://decan.lexpage.net/files/SANER-2022b.pdf  
+- title: "Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data"
+  authors: Pooya Rostami Mazrae (UMONS)
   kind: Presentation
   published: The 20th Belgium-Netherlands Software Evolution Workshop
   year: 2021
   link: https://youtu.be/wKe8Axqxkig
-
-- title: Predictive Modeling of Socio-Technical Health in Evolving Software Packaging Ecosystems
+- title: "Predictive Modeling of Socio-Technical Health in Evolving Software Packaging Ecosystems"
   authors: Pooya Rostami Mazrae, Tom Mens
   kind: Presentation
   published: The 20th Belgium-Netherlands Software Evolution Workshop
   year: 2021
   link: https://youtu.be/qBToTtcE8Ks
-
-- title: Towards a Bot Dataset in GitHub Repositories for Cargo
+- title: "Towards a Bot Dataset in GitHub Repositories for Cargo"
   authors: Natarajan Chidambaram, Tom Mens
   kind: Presentation
   published: The 20th Belgium-Netherlands Software Evolution Workshop
   year: 2021
   link: https://youtu.be/X1aYHm8sDOg
-  
-- title: Reuse and maintenance practices among divergent forks in 3 software ecosystems
-  authors: John Businge, Moses Openja, Sarah Nadi, Thorsten Berger
+- title: "Reuse and maintenance practices among divergent forks in 3 software ecosystems"
+  authors: John Businge
   kind: Presentation
   published: The 20th Belgium-Netherlands Software Evolution Workshop
   year: 2021
-  link: https://youtu.be/PqdyeE7PrYw
-  
-- title: Stack Overflow posts as source of library features
+  link: https://youtu.be/PqdyeE7PrYw 
+- title: "Stack Overflow posts as source of library features"
   authors: Camilo Velázquez-Rodríguez, Eleni Constantinou, Coen De Roover
   kind: Presentation
   published: The 20th Belgium-Netherlands Software Evolution Workshop
   year: 2021
-  link: https://youtu.be/GzzqUBsXDU4
-  
-- title: On the evolution of CI usage and GitHub Actions
+  link: https://youtu.be/GzzqUBsXDU4 
+- title: "On the evolution of CI usage and GitHub Actions"
   authors: Mehdi Golzadeh, Alexandre Decan, Tom Mens
   kind: Presentation
   published: The 20th Belgium-Netherlands Software Evolution Workshop
   year: 2021
   link: https://youtu.be/8zBNT2vz3Q0
-  
 - title: "A Multi-dimensional Analysis of Technical Lag in Debian-based Docker Images"
   authors: Ahmed Zerouali
   kind: Presentation
   year: 2021
-  published: Groupe de Travail Vélocité Logicielle (LIP6), Paris - France
+  published: Groupe de Travail Vélocité Logicielle (LIP6), Paris - France  
 - title: "Reuse and Maintenance Practices among Divergent Forks in Three Software Ecosystems"
   authors: John Businge, Moses Openja, Sarah Nadi, Thorsten Berger
   kind: Journal
   year: 2021
-  published: Empirical Software Engineering
+  published: Empirical Software Engineering  
 - title: "An Empirical Study of (Multi-) Database Models in Open-Source Projects"
   authors: Benats Pol, Gobert Maxime, Meurice Loup, Nagy Csaba and Cleve Anthony
   kind: Conference
   year: 2021
   published: International Conference on Conceptual Modeling (ER 2021)
-  link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_8
+  link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_8  
 - title: "Conceptual Modeling of Hybrid Polystores"
   authors: Gobert Maxime, Meurice Loup and Cleve Anthony
   kind: Conference
   year: 2021
   published: International Conference on Conceptual Modeling (ER 2021)
-  link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_10
+  link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_10  
 - title: "Comparing semantic versioning practices in Cargo, npm, Packagist and RubyGems"
   authors: Tom Mens
   kind: Presentation
