@@ -1,3 +1,8 @@
+- title: "On the Impact of Security Vulnerabilities in the npm and RubyGems Dependency Networks"
+  authors: Ahmed Zerouali, Tom Mens, Alexandre Decan, Coen De Roover
+  kind: Journal
+  published: Empirical Software Engineering
+  year: 2022
 - title: "On the accuracy of bot detection techniques"
   authors: Mehdi Golzadeh, Alexandre Decan, Natarajan Chidambaram
   kind: Conference
