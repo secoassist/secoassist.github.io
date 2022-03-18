@@ -1,3 +1,9 @@
+- title: "Uncovering Library Features from API Usage on Stack Overflow"
+  authors: Camilo Velázquez-Rodríguez, Eleni Constantinou, Coen De Roover
+  kind: Presentation
+  year: 2022
+  published: 29th International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
+  link: https://youtu.be/OgfCeaLsauE?t=2666
 - title: "On the Impact of Security Vulnerabilities in the npm and RubyGems Dependency Networks"
   authors: Ahmed Zerouali, Tom Mens, Alexandre Decan, Coen De Roover
   kind: Journal
