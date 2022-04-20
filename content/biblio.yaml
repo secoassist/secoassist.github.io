@@ -1,3 +1,15 @@
+- title: "Prevalence and Evolution of License Violations in npm and RubyGems Dependency Networks"
+  authors: Ilyas Said Makari, Ahmed Zerouali, Coen De Roover
+  kind: Conference
+  year: 2022
+  published: 20th International Conference on Software Reuse (ICSR)
+  link: https://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-08.pdf
+- title: "Smelly Variables in Ansible Infrastructure Code: Detection, Prevalence, and Lifetime"
+  authors: Ruben Opdebeeck, Ahmed Zerouali, Coen De Roover
+  kind: Conference
+  year: 2022
+  published: 19th International Conference on Mining Software Repositories (MSR)
+  link: https://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-09.pdf
 - title: "Uncovering Library Features from API Usage on Stack Overflow"
   authors: Camilo Velázquez-Rodríguez, Eleni Constantinou, Coen De Roover
   kind: Presentation
