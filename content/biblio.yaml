@@ -3,25 +3,24 @@
   kind: Presentation
   year: 2022
   link: https://youtu.be/ChJjJgmkVt8
-  published: 4th International ICSE Workshop on Bots in Software Engineering (BotSE)
-  link: 
+  published: 4th International ICSE Workshop on Bots in Software Engineering (BotSE 2022)
 - title: "On the accuracy of bot detection techniques "
   authors: Mehdi Golzadeh, Alexandre Decan and Natarajan Chidambaram
   kind: Presentation
   year: 2022
-  published: 4th International ICSE Workshop on Bots in Software Engineering (BotSE)
+  published: 4th International ICSE Workshop on Bots in Software Engineering (BotSE 2022)
   link: 
 - title: "Prevalence and Evolution of License Violations in npm and RubyGems Dependency Networks"
   authors: Ilyas Said Makari, Ahmed Zerouali, Coen De Roover
   kind: Conference
   year: 2022
-  published: 20th International Conference on Software Reuse (ICSR)
+  published: 20th International Conference on Software Reuse (ICSR 2022)
   link: https://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-08.pdf
 - title: "Smelly Variables in Ansible Infrastructure Code: Detection, Prevalence, and Lifetime"
   authors: Ruben Opdebeeck, Ahmed Zerouali, Coen De Roover
   kind: Conference
   year: 2022
-  published: 19th International Conference on Mining Software Repositories (MSR)
+  published: 19th International Conference on Mining Software Repositories (MSR 2022)
   link: https://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-09.pdf
 - title: "Uncovering Library Features from API Usage on Stack Overflow"
   authors: Camilo Velázquez-Rodríguez, Eleni Constantinou, Coen De Roover
@@ -44,6 +43,7 @@
 - title: "Leveraging Predictions From Multiple Repositories to Improve Bot Detection"
   authors: Natarajan Chidambaram, Alexandre Decan, Mehdi Golzadeh
   link: https://decan.lexpage.net/files/BOTSE-2022a.pdf
+  link2: https://youtu.be/ChJjJgmkVt8
   kind: Workshop
   published: 4th International ICSE Workshop on Bots in Software Engineering (BotSE)
   year: 2022
