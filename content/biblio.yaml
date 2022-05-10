@@ -1,3 +1,10 @@
+- title: "Leveraging Predictions from Multiple Repositories to Improve Bot Detection"
+  authors: Natarajan Chidambaram, Alexandre Decan and Mehdi Golzadeh 
+  kind: Presentation
+  year: 2022
+  link: https://youtu.be/ChJjJgmkVt8
+  published: 4th International ICSE Workshop on Bots in Software Engineering (BotSE)
+  link: 
 - title: "On the accuracy of bot detection techniques "
   authors: Mehdi Golzadeh, Alexandre Decan and Natarajan Chidambaram
   kind: Presentation
