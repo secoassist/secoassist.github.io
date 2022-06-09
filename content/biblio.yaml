@@ -1,3 +1,9 @@
+- title: "Recognizing Bot Activity in Collaborative Software Development"
+  authors: Mehdi Golzadeh, Tom Mens, Alexandre Decan, Eleni Constantinou and Natarajan Chidambaram
+  kind: Journal
+  year: 2022
+  link: https://doi.org/10.1109/MS.2022.3178601
+  published: IEEE Software
 - title: "Leveraging Predictions from Multiple Repositories to Improve Bot Detection"
   authors: Natarajan Chidambaram, Alexandre Decan and Mehdi Golzadeh 
   kind: Presentation
