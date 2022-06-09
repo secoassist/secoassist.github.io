@@ -1,3 +1,9 @@
+- title: "Bot Detection in GitHub Repositories" 
+  authors: Natarajan Chidambaram and Pooya Rostami Mazrae
+  kind: Conference
+  published: Hackathon Track of International Conference on Mining Software Repositories (MSR 2022)
+  year: 2022
+  link: https://doi.org/10.1145/3524842.3528520
 - title: "Recognizing Bot Activity in Collaborative Software Development"
   authors: Mehdi Golzadeh, Tom Mens, Alexandre Decan, Eleni Constantinou and Natarajan Chidambaram
   kind: Journal
@@ -10,7 +16,7 @@
   year: 2022
   link: https://youtu.be/ChJjJgmkVt8
   published: 4th International ICSE Workshop on Bots in Software Engineering (BotSE 2022)
-- title: "On the accuracy of bot detection techniques "
+- title: "On the accuracy of bot detection techniques"
   authors: Mehdi Golzadeh, Alexandre Decan and Natarajan Chidambaram
   kind: Presentation
   year: 2022
