@@ -1,3 +1,9 @@
+- title: "A mixed-methods analysis of micro-collaborative coding practices in OpenStack"
+  authors: Armstrong Foundjem, Eleni Constantinou, Tom Mens, Bram Adams
+  kind: Journal
+  published: Empirical Software Engineering
+  link: https://doi.org/10.1007/s10664-022-10167-w
+  year: 2022
 - title: On the Use of GitHub Actions in Software Development Repositories
   authors: Alexandre Decan, Tom Mens, Pooya Rostami Mazrae and Mehdi Golzadeh
   kind: Conference
