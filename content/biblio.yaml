@@ -9,6 +9,7 @@
   kind: Conference
   published: 38th International Conference on Software Maintenance and Evolution (ICSME) 2022
   year: 2022
+  link: https://decan.lexpage.net/files/ICSME-2022.pdf
 - title: "Bot Detection in GitHub Repositories" 
   authors: Natarajan Chidambaram and Pooya Rostami Mazrae
   kind: Conference
