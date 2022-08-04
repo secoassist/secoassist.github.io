@@ -2,7 +2,13 @@
 # name*, category*, year*, authors*, institution*, description*, homepage*, documentation, source, paper
 # category: should be either "tool" or "dataset"
 # paper: should be the exact title of a paper from biblio.yaml, if provided;
-
+- name: License compatibility checking for npm dependencies
+  category: tool
+  year: 2022
+  authors: Ilyas Said Makari, Ahmed Zerouali, Coen De Roover
+  institution: Vrije Universiteit Brussel
+  description: Tool to check license compatibilities for npm dependencies
+  homepage: https://doi.org/10.5281/zenodo.5913761
 - name: BoDeGiC
   category: tool
   year: 2020
