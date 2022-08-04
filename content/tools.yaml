@@ -2,6 +2,13 @@
 # name*, category*, year*, authors*, institution*, description*, homepage*, documentation, source, paper
 # category: should be either "tool" or "dataset"
 # paper: should be the exact title of a paper from biblio.yaml, if provided;
+- name: LiFUSO
+  category: tool
+  year: 2022
+  authors: Camilo Velázquez-Rodríguez
+  institution: Vrije Universiteit Brussel
+  description: A tool for library feature unveiling based on Stack Overflow posts
+  homepage: https://github.com/softwarelanguageslab/lifuso
 - name: License compatibility checking for npm dependencies
   category: tool
   year: 2022
