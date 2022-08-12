@@ -7,7 +7,7 @@
 - title: "AmPyfier: Test amplification in Python"
   authors: Ebert Schoofs, Mehrdad Abdi and Serge Demeyer
   kind: Journal
-  published: Journal of Software: Evolution and Process
+  published: "Journal of Software: Evolution and Process" 
   year: 2022
   link: https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2490
 - title: "Small-Amp: Test amplification in a dynamically typed language"
