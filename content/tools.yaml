@@ -2,6 +2,27 @@
 # name*, category*, year*, authors*, institution*, description*, homepage*, documentation, source, paper
 # category: should be either "tool" or "dataset"
 # paper: should be the exact title of a paper from biblio.yaml, if provided;
+- name: Fork variant pair dataset
+  category: dataset
+  year: 2022
+  authors: John Businge
+  institution: University of Antwerp
+  description: A dataset of 11K variant pairs from three ecosystems of Android, .NET, and JavaScript.
+  homepage: https://github.com/johnxu21/emse2021
+- name: A dataset of missed Opportunity/Effort Duplication patches in divergent variants
+  category: dataset
+  year: 2022
+  authors: Poedjadevie Kadjel Ramkisoen and John Businge
+  institution: University of Antwerp
+  description: A dataset of 364 (source->target) variant pairs with 8,323 patches resulting in a curated dataset containing 1,116 cases of effort duplication and 1,008 cases of missed opportunities.
+  homepage: https://figshare.com/s/4952174de6c21fa9874f
+- name: PaReco
+  category: tool
+  year: 2022
+  authors: Poedjadevie Kadjel Ramkisoen and John Businge
+  institution: University of Antwerp
+  description: Patched and missed patch code clone detection tool.
+  homepage: https://github.com/KadjelRamkisoen/PaReco
 - name: LiFUSO
   category: tool
   year: 2022
@@ -16,6 +37,13 @@
   institution: Vrije Universiteit Brussel
   description: Tool to check license compatibilities for npm dependencies
   homepage: https://doi.org/10.5281/zenodo.5913761
+- name: Survey dataset for variant fork motivations by variant developers
+  category: dataset
+  year: 2021
+  authors: John Businge, Ahmed Zerouali, Alexandre Decan, Tom Mens, Serge Demeyer
+  institution: University of Antwerp
+  description: A dataset resulting from an online survey, conducted with 105 maintainers involved in different active variant forks hosted on Github.
+  homepage: https://doi.org/10.5281/zenodo.5855808
 - name: BoDeGiC
   category: tool
   year: 2020
