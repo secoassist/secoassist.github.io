@@ -2,6 +2,41 @@
 # name*, category*, year*, authors*, institution*, description*, homepage*, documentation, source, paper
 # category: should be either "tool" or "dataset"
 # paper: should be the exact title of a paper from biblio.yaml, if provided;
+- name: Test transplantatio feasibility dataset
+  category: dataset
+  year: 2022
+  authors: Igor Schittekat
+  institution: University of Antwerp
+  description: Dataset for test transplantation feasibility in Python.
+  homepage: https://figshare.com/s/304e0f741c3879b6e068
+- name: AmPyfier Dataset
+  category: dataset
+  year: 2022
+  authors: Ebert Schoofs
+  institution: University of Antwerp
+  description: Dataset for test amplification for Python.
+  homepage: https://github.com/SchoofsEbert/AmPyfier_evaluation
+- name: AmPyfier
+  category: tool
+  year: 2022
+  authors: Ebert Schoofs, Mehrdad Abdi
+  institution: University of Antwerp
+  description: test amplification for Python.
+  homepage: https://ansymore.uantwerpen.be/artefacts/ampyfier
+- name: Small-Mince
+  category: tool
+  year: 2022
+  authors: Mehrdad Abdi
+  institution: University of Antwerp
+  description: A tool for slice tests.
+  homepage: https://github.com/mabdi/small-mince
+- name: Test amplification in Pharo
+  category: dataset
+  year: 2022
+  authors: Mehrdad Abdi
+  institution: University of Antwerp
+  description: A dataset of real projects in Pharo and their amplified tests.
+  homepage: https://github.com/mabdi/SmallAmp-evaluations
 - name: Fork variant pair dataset
   category: dataset
   year: 2022
