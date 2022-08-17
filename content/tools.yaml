@@ -2,7 +2,14 @@
 # name*, category*, year*, authors*, institution*, description*, homepage*, documentation, source, paper
 # category: should be either "tool" or "dataset"
 # paper: should be the exact title of a paper from biblio.yaml, if provided;
-- name: Test transplantatio feasibility dataset
+- name: Continuous Integration Antipattern Analyzer
+  category: tool
+  year: 2022
+  authors: Freek De Sagher
+  institution: University of Antwerp
+  description: a command line tool to analyze CI workflows in git repositories written in Python 3.10.
+  homepage: https://github.com/FreekDS/CIAN
+- name: Test transplantation feasibility dataset
   category: dataset
   year: 2022
   authors: Igor Schittekat
