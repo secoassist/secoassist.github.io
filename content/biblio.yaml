@@ -1,3 +1,9 @@
+- title: "Best Practices of Testing Database Manipulation Code"
+  authors: Maxime Gobert, Csaba Nagy, Henrique Rocha, Serge Demeyer, Anthony Cleve
+  kind: Journal
+  published: Information Systems
+  year: 2022
+  link: https://github.com/mabdi/small-mince
 - title: "Test Transplantation through Dynamic Test Slicing"
   authors: Mehrdad Abdi and Serge Demeyer
   kind: Conference
