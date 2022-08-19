@@ -2,6 +2,13 @@
 # name*, category*, year*, authors*, institution*, description*, homepage*, documentation, source, paper
 # category: should be either "tool" or "dataset"
 # paper: should be the exact title of a paper from biblio.yaml, if provided;
+- name: HyDRa
+  category: tool
+  year: 2022
+  authors: Maxime Gobert
+  institution: University of Namur
+  description: a framework for hybrid polystore modeling and manipulation
+  homepage: https://github.com/gobertm/HyDRa
 - name: Continuous Integration Antipattern Analyzer
   category: tool
   year: 2022
