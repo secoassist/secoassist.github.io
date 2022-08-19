@@ -581,6 +581,7 @@
   year: 2019
   published: 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering
   link: https://arxiv.org/abs/1901.04217
+  link2: https://doi.org/10.1109/SANER.2019.8667997
 - title: "A Longitudinal Analysis of Bug Handling Across Eclipse Releases"
   published: 35th IEEE International Conference on Software Maintenance and Evolution
   authors: Zeinab Abou Khalil, Eleni Constantinou, Tom Mens, Laurence Duchien, Clement Quinton
