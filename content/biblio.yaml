@@ -15,7 +15,7 @@
   kind: Journal
   published: "Journal of Software: Evolution and Process" 
   year: 2022
-  link: https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2490
+  link:  https://doi.org/10.1002/smr.2490
 - title: "Small-Amp: Test amplification in a dynamically typed language"
   authors: Mehrdad Abdi, Henrique Rocha, Serge Demeyer and Alexandre Bergel 
   kind: Journal
