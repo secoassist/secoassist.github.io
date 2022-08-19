@@ -7,7 +7,7 @@
 - title: "Test Transplantation through Dynamic Test Slicing"
   authors: Mehrdad Abdi and Serge Demeyer
   kind: Conference
-  published: Proceedings of the 22nd IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2022), Nier Track
+  published: 22nd IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2022), Nier Track
   year: 2022
   link: https://github.com/mabdi/small-mince
 - title: "AmPyfier: Test amplification in Python"
@@ -25,19 +25,19 @@
 - title: "Can We Increase the Test-coverage in Libraries using Dependent Projects’ Test-suites?"
   authors: Igor Schittekat and Mehrdad Abdi and Serge Demeyer
   kind: Conference
-  published: The International Conference on Evaluation and Assessment in Software Engineering 2022, NIER track
+  published: International Conference on Evaluation and Assessment in Software Engineering 2022, NIER track
   year: 2022
   link: https://dl.acm.org/doi/abs/10.1145/3530019.3535309
 - title: "LiFUSO: A Tool for Library Feature Unveiling based on Stack Overflow Posts"
   authors: Camilo Velázquez-Rodríguez, Eleni Constantinou and Coen De Roover
   kind: Conference
-  published: Proceedings of the 22nd IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2022), Tool Demo Track
+  published: 22nd IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2022), Tool Demo Track
   year: 2022
   link: http://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-11.pdf
 - title: Mining for Framework Instantiation Pattern Interplays
   authors: Yunior Pacheco, Ahmed Zerouali and Coen De Roover
   kind: Conference
-  published: Proceedings of the 22nd IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2022)
+  published: 22nd IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2022)
   year: 2022
   link: https://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-13.pdf
 - title: PaReco - Patched Clones and Missed Patches among the Divergent Variants of a Software Family
