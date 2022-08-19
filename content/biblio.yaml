@@ -153,7 +153,8 @@
   kind: Conference
   year: 2022
   published: 29th International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
-  link: https://decan.lexpage.net/files/SANER-2022b.pdf  
+  link: https://decan.lexpage.net/files/SANER-2022b.pdf
+  link2: https://doi.org/10.1109/SANER53432.2022.00105
 - title: "Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data"
   authors: Pooya Rostami Mazrae (UMONS)
   kind: Presentation
