@@ -45,7 +45,7 @@
   year: 2022
   authors: Mehrdad Abdi
   institution: University of Antwerp
-  description: A tool for slice tests.
+  description: A tool to slice tests in Pharo Smalltalk.
   homepage: https://github.com/mabdi/small-mince
   paper: "Test Transplantation through Dynamic Test Slicing"
 - name: Test amplification in Pharo
