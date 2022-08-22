@@ -23,6 +23,7 @@
   institution: University of Antwerp
   description: Dataset for test transplantation feasibility in Python.
   homepage: https://figshare.com/s/304e0f741c3879b6e068
+  paper: "Can We Increase the Test-coverage in Libraries using Dependent Projects’ Test-suites?"
 - name: AmPyfier Dataset
   category: dataset
   year: 2022
@@ -30,6 +31,7 @@
   institution: University of Antwerp
   description: Dataset for test amplification for Python.
   homepage: https://github.com/SchoofsEbert/AmPyfier_evaluation
+  paper: "AmPyfier: Test amplification in Python"
 - name: AmPyfier
   category: tool
   year: 2022
@@ -37,6 +39,7 @@
   institution: University of Antwerp
   description: test amplification for Python.
   homepage: https://ansymore.uantwerpen.be/artefacts/ampyfier
+  paper: "AmPyfier: Test amplification in Python"
 - name: Small-Mince
   category: tool
   year: 2022
@@ -44,6 +47,7 @@
   institution: University of Antwerp
   description: A tool for slice tests.
   homepage: https://github.com/mabdi/small-mince
+  paper: "Test Transplantation through Dynamic Test Slicing"
 - name: Test amplification in Pharo
   category: dataset
   year: 2022
@@ -51,6 +55,7 @@
   institution: University of Antwerp
   description: A dataset of real projects in Pharo and their amplified tests.
   homepage: https://github.com/mabdi/SmallAmp-evaluations
+  paper: "Small-Amp: Test amplification in a dynamically typed language"
 - name: Fork variant pair dataset
   category: dataset
   year: 2022
@@ -58,6 +63,7 @@
   institution: University of Antwerp
   description: A dataset of 11K variant pairs from three ecosystems of Android, .NET, and JavaScript.
   homepage: https://github.com/johnxu21/emse2021
+  paper: "Reuse and Maintenance Practices among Divergent Forks in Three Software Ecosystems"
 - name: A dataset of missed Opportunity/Effort Duplication patches in divergent variants
   category: dataset
   year: 2022
@@ -65,6 +71,7 @@
   institution: University of Antwerp
   description: A dataset of 364 (source->target) variant pairs with 8,323 patches resulting in a curated dataset containing 1,116 cases of effort duplication and 1,008 cases of missed opportunities.
   homepage: https://figshare.com/s/4952174de6c21fa9874f
+  paper: "PaReco - Patched Clones and Missed Patches among the Divergent Variants of a Software Family"
 - name: PaReco
   category: tool
   year: 2022
@@ -72,6 +79,7 @@
   institution: University of Antwerp
   description: Patched and missed patch code clone detection tool.
   homepage: https://github.com/KadjelRamkisoen/PaReco
+  paper: "PaReco - Patched Clones and Missed Patches among the Divergent Variants of a Software Family"
 - name: LiFUSO
   category: tool
   year: 2022
@@ -93,6 +101,7 @@
   institution: University of Antwerp
   description: A dataset resulting from an online survey, conducted with 105 maintainers involved in different active variant forks hosted on Github.
   homepage: https://doi.org/10.5281/zenodo.5855808
+  paper: "Variant Forks - Motivations and Impediments"
 - name: BoDeGiC
   category: tool
   year: 2020
@@ -135,6 +144,8 @@
   authors: Csaba Nagy, Anthony Cleve
   description: A static SQL analyzer with plug-in support for Eclipse to inspect database usage in Java applications. It statically extracts SQL queries embedded in Java and performs various analyses on them.
   homepage: https://bitbucket.org/csnagy/sqlinspect
+  paper: "Best Practices of Testing Database Manipulation Code"
+  paper: "Challenges and Perils of Testing Database Manipulation Code"
 - name: BoDeGha
   category: tool
   year: 2020
