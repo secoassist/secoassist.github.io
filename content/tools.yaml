@@ -145,8 +145,8 @@
   description: A static SQL analyzer with plug-in support for Eclipse to inspect database usage in Java applications. It statically extracts SQL queries embedded in Java and performs various analyses on them.
   homepage: https://bitbucket.org/csnagy/sqlinspect
   paper: "SQLInspect: a static analyzer to inspect database usage in Java applications"
-  paper: "Best Practices of Testing Database Manipulation Code"
-  paper: "Challenges and Perils of Testing Database Manipulation Code"
+  # paper: "Best Practices of Testing Database Manipulation Code"
+  # paper: "Challenges and Perils of Testing Database Manipulation Code"
 - name: BoDeGha
   category: tool
   year: 2020
