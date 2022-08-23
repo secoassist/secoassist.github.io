@@ -40,7 +40,7 @@
   published: 22nd IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2022)
   year: 2022
   link: https://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-13.pdf
-- title: PaReco - Patched Clones and Missed Patches among the Divergent Variants of a Software Family
+- title: "PaReco - Patched Clones and Missed Patches among the Divergent Variants of a Software Family"
   authors: Poedjadevie Kadjel Ramkisoen, John Businge, Brent van Bradel, Alexandre Decan, Serge Demeyer, Coen De Roover, Foutse Khomh
   kind: Conference
   published: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 2022
