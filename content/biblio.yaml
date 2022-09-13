@@ -1,3 +1,9 @@
+- title: "Nurturing the Software Ecosystems of the Future"
+  authors: Anthony Cleve, Serge Demeyer, Coen De Roover, Tom Mens 
+  kind: Presentation
+  year: 2022
+  link: https://www.slideshare.net/tommens/nurturing-the-software-ecosystems-of-the-future
+  published: 21st Belgian-Netherlands Software Evolution Workshop (BENEVOL 2022)
 - title: "Best Practices of Testing Database Manipulation Code"
   authors: Maxime Gobert, Csaba Nagy, Henrique Rocha, Serge Demeyer, Anthony Cleve
   kind: Journal
