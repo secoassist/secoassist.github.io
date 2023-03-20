@@ -1,3 +1,9 @@
+- title: "A Text Classification Approach to API Type Resolution for Incomplete Code Snippets"
+  authors: Camilo Velázquez-Rodríguez, Dario Di Nucci and Coen De Roover
+  kind: Journal
+  published: Science of Computer Programming
+  year: 2023
+  link: https://doi.org/10.1016/j.scico.2023.102941
 - title: "Toward zero-touch test amplification"
   authors: Mehrdad Abdi
   kind: PhD Thesis
