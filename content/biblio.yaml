@@ -1,3 +1,8 @@
+- title: "A Dataset of Bot and Human Activities in GitHub"
+  authors: Natarajan Chidambaram, Alexandre Decan, Tom Mens
+  kind: Conference
+  published: International Conference on Mining Software Repositories (MSR 2023)
+  link: https://zenodo.org/record/7740521
 - title: "A Text Classification Approach to API Type Resolution for Incomplete Code Snippets"
   authors: Camilo Velázquez-Rodríguez, Dario Di Nucci and Coen De Roover
   kind: Journal
@@ -25,7 +30,7 @@
 - title: "Test Transplantation through Dynamic Test Slicing"
   authors: Mehrdad Abdi and Serge Demeyer
   kind: Conference
-  published: 22nd IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2022), Nier Track
+  published: International Working Conference on Source Code Analysis and Manipulation (SCAM 2022), Nier Track
   year: 2022
   link: https://github.com/mabdi/small-mince
 - title: "AmPyfier: Test amplification in Python"
