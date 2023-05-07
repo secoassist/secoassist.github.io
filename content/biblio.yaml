@@ -1,3 +1,28 @@
+- title: "Software Ecosystems: Tooling and Analytics"
+  authors: Tom Mens, Coen De Roover, Anthony Cleve
+  kind: Book
+  year: 2023
+  published: Springer
+- title: "An Introduction to Software Ecosystems"
+  authors: Tom Mens, Coen De Roover
+  kind: Chapter
+  year: 2023
+  published: Chapter in book "Software Ecosystems: Tooling and Analytics", Springer
+- title: "The GitHub Development Workflow Automation Ecosystems"
+  authors: Mairieli Wessel, Tom Mens, Alexandre Decan, Pooya Rostami Mazrae
+  kind: Chapter
+  year: 2023
+  published: Chapter in book "Software Ecosystems: Tooling and Analytics", Springer
+- title: "Analysing Variant Forks of Software Repositories from Social Coding Platforms"
+  authors: John Businge, Mehrdad Abdi, Serge Demeyer
+  kind: Chapter
+  year: 2023
+  published: Chapter in book "Software Ecosystems: Tooling and Analytics", Springer
+- title: "Infrastructure-as-Code Ecosystems"
+  authors: Ruben Opedebeeck, Ahmed Zerouali, Coen De Roover
+  kind: Chapter
+  year: 2023
+  published: Chapter in book "Software Ecosystems: Tooling and Analytics", Springer
 - title: "Identifying Development Bots in Social Coding Platforms"
   authors: Mehdi Golzadeh
   kind: PhD Thesis
