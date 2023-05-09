@@ -1,7 +1,3 @@
----
-permalink: /index.html
----
-
 # SECO-ASSIST sources
 
 [![Deploy website](https://github.com/secoassist/secoassist.github.io/actions/workflows/deploy.yaml/badge.svg?branch=sources&event=push)](https://github.com/secoassist/secoassist.github.io/actions/workflows/deploy.yaml)
