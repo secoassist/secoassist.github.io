@@ -3,6 +3,7 @@ name: Deploy website to GitHub Pages
 on:
   push:
     branches: [sources]
+  pull_request:
   workflow_dispatch:
 
 permissions:
@@ -40,6 +41,8 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+
+    if: ${{ github.event_name != 'push' }}
 
     environment:
       name: github-pages

@@ -4,7 +4,7 @@ permalink: /index.html
 
 # SECO-ASSIST sources
 
-[![Deployment](https://github.com/secoassist/secoassist.github.io/workflows/deploy.yaml/badge.svg?branch=sources)](https://github.com/secoassist/secoassist.github.io/actions/workflows/deploy.yaml)
+[![Deploy website](https://github.com/secoassist/secoassist.github.io/actions/workflows/deploy.yaml/badge.svg?branch=sources&event=push)](https://github.com/secoassist/secoassist.github.io/actions/workflows/deploy.yaml)
 
 This website is built with [Genja](https://github.com/AlexandreDecan/Genja).
 It is built on top of [Jinja2](https://jinja.pocoo.org/docs/latest/), a powerful template engine written in Python. The layout of the website relies on [Bootstrap 3](https://getbootstrap.com/docs/3.3/).
