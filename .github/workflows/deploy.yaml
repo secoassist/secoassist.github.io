@@ -19,12 +19,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
       - name: Get Genja
         run: |
           wget https://raw.githubusercontent.com/AlexandreDecan/genja/master/genja.py
           wget https://raw.githubusercontent.com/AlexandreDecan/genja/master/requirements.txt
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install pip -U
+          pip install -r requirements.txt
       - name: Build website
         run: python genja.py
       - name: Upload artifact
