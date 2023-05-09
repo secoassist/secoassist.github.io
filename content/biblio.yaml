@@ -37,6 +37,7 @@
   authors: Natarajan Chidambaram, Alexandre Decan, Tom Mens
   kind: Conference
   published: International Conference on Mining Software Repositories (MSR 2023)
+  year: 2023
   link: https://zenodo.org/record/7740521
 - title: "A Text Classification Approach to API Type Resolution for Incomplete Code Snippets"
   authors: Camilo Velázquez-Rodríguez, Dario Di Nucci and Coen De Roover
