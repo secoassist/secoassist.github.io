@@ -7,22 +7,22 @@
   authors: Tom Mens, Coen De Roover
   kind: Chapter
   year: 2023
-  published: Chapter in book "Software Ecosystems: Tooling and Analytics", Springer
+  published: "Chapter in book \"Software Ecosystems: Tooling and Analytics\", Springer"
 - title: "The GitHub Development Workflow Automation Ecosystems"
   authors: Mairieli Wessel, Tom Mens, Alexandre Decan, Pooya Rostami Mazrae
   kind: Chapter
   year: 2023
-  published: Chapter in book "Software Ecosystems: Tooling and Analytics", Springer
+  published: "Chapter in book \"Software Ecosystems: Tooling and Analytics\", Springer"
 - title: "Analysing Variant Forks of Software Repositories from Social Coding Platforms"
   authors: John Businge, Mehrdad Abdi, Serge Demeyer
   kind: Chapter
   year: 2023
-  published: Chapter in book "Software Ecosystems: Tooling and Analytics", Springer
+  published: "Chapter in book \"Software Ecosystems: Tooling and Analytics\", Springer"
 - title: "Infrastructure-as-Code Ecosystems"
   authors: Ruben Opedebeeck, Ahmed Zerouali, Coen De Roover
   kind: Chapter
   year: 2023
-  published: Chapter in book "Software Ecosystems: Tooling and Analytics", Springer
+  published: "Chapter in book \"Software Ecosystems: Tooling and Analytics\", Springer"
 - title: "Identifying Development Bots in Social Coding Platforms"
   authors: Mehdi Golzadeh
   kind: PhD Thesis
@@ -44,6 +44,12 @@
   published: Science of Computer Programming
   year: 2023
   link: https://doi.org/10.1016/j.scico.2023.102941
+- title: "On the usage, co-usage and migration of CI/CD tools: a qualitative analysis"
+  authors: Pooya Rostami Mazrae, Tom Mens, Mehdi Golzadeh, Alexandre Decan
+  kind: Journal
+  published: Empirical Software Engineering
+  year: 2023
+  link: https://doi.org/10.1007/s10664-022-10285-5
 - title: "Toward zero-touch test amplification"
   authors: Mehrdad Abdi
   kind: PhD Thesis
@@ -51,7 +57,7 @@
   published: Universiteit Antwerpen, Faculteit Wetenschappen, Departement Wiskunde-Informatica
   link: "https://repository.uantwerpen.be/docstore/d:irua:14939"
 - title: "Nurturing the Software Ecosystems of the Future"
-  authors: Anthony Cleve, Serge Demeyer, Coen De Roover, Tom Mens 
+  authors: Anthony Cleve, Serge Demeyer, Coen De Roover, Tom Mens
   kind: Presentation
   year: 2022
   link: https://www.slideshare.net/tommens/nurturing-the-software-ecosystems-of-the-future
@@ -71,11 +77,11 @@
 - title: "AmPyfier: Test amplification in Python"
   authors: Ebert Schoofs, Mehrdad Abdi and Serge Demeyer
   kind: Journal
-  published: "Journal of Software: Evolution and Process" 
+  published: "Journal of Software: Evolution and Process"
   year: 2022
   link:  https://doi.org/10.1002/smr.2490
 - title: "Small-Amp: Test amplification in a dynamically typed language"
-  authors: Mehrdad Abdi, Henrique Rocha, Serge Demeyer and Alexandre Bergel 
+  authors: Mehrdad Abdi, Henrique Rocha, Serge Demeyer and Alexandre Bergel
   kind: Journal
   published: Empirical Software Engineering
   year: 2022
@@ -115,7 +121,7 @@
   published: 38th International Conference on Software Maintenance and Evolution (ICSME) 2022
   year: 2022
   link: https://decan.lexpage.net/files/ICSME-2022.pdf
-- title: "Bot Detection in GitHub Repositories" 
+- title: "Bot Detection in GitHub Repositories"
   authors: Natarajan Chidambaram and Pooya Rostami Mazrae
   kind: Conference
   published: Hackathon Track of International Conference on Mining Software Repositories (MSR 2022)
@@ -128,7 +134,7 @@
   link: https://doi.org/10.1109/MS.2022.3178601
   published: IEEE Software
 - title: "Leveraging Predictions from Multiple Repositories to Improve Bot Detection"
-  authors: Natarajan Chidambaram, Alexandre Decan and Mehdi Golzadeh 
+  authors: Natarajan Chidambaram, Alexandre Decan and Mehdi Golzadeh
   kind: Presentation
   year: 2022
   link: https://youtu.be/ChJjJgmkVt8
@@ -236,13 +242,13 @@
   kind: Presentation
   published: The 20th Belgium-Netherlands Software Evolution Workshop
   year: 2021
-  link: https://youtu.be/PqdyeE7PrYw 
+  link: https://youtu.be/PqdyeE7PrYw
 - title: "Stack Overflow posts as source of library features"
   authors: Camilo Velázquez-Rodríguez, Eleni Constantinou, Coen De Roover
   kind: Presentation
   published: The 20th Belgium-Netherlands Software Evolution Workshop
   year: 2021
-  link: https://youtu.be/GzzqUBsXDU4 
+  link: https://youtu.be/GzzqUBsXDU4
 - title: "On the evolution of CI usage and GitHub Actions"
   authors: Mehdi Golzadeh, Alexandre Decan, Tom Mens
   kind: Presentation
@@ -253,25 +259,25 @@
   authors: Ahmed Zerouali
   kind: Presentation
   year: 2021
-  published: Groupe de Travail Vélocité Logicielle (LIP6), Paris - France  
+  published: Groupe de Travail Vélocité Logicielle (LIP6), Paris - France
 - title: "Reuse and Maintenance Practices among Divergent Forks in Three Software Ecosystems"
   authors: John Businge, Moses Openja, Sarah Nadi, Thorsten Berger
   kind: Journal
   year: 2022
   link: https://doi.org/10.1007/s10664-021-10078-2
-  published: Empirical Software Engineering  
+  published: Empirical Software Engineering
 - title: "An Empirical Study of (Multi-) Database Models in Open-Source Projects"
   authors: Pol Benats, Maxime Gobert, Loup Meurice, Csaba Nagy and Anthony Cleve
   kind: Conference
   year: 2021
   published: International Conference on Conceptual Modeling (ER 2021)
-  link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_8  
+  link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_8
 - title: "Conceptual Modeling of Hybrid Polystores"
   authors: Maxime Gobert, Loup  Meurice and Anthony Cleve
   kind: Conference
   year: 2021
   published: International Conference on Conceptual Modeling (ER 2021)
-  link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_10  
+  link: https://link.springer.com/chapter/10.1007/978-3-030-89022-3_10
 - title: "Comparing semantic versioning practices in Cargo, npm, Packagist and RubyGems"
   authors: Tom Mens
   kind: Presentation
@@ -312,7 +318,7 @@
   authors: Ahmed Zerouali, Tom Mens, Coen De Roover
   kind: Journal
   year: 2021
-  published: Science of Computer Programming 
+  published: Science of Computer Programming
   link: https://doi.org/10.1016/j.scico.2021.102653
   link2: http://soft.vub.ac.be/Publications/2021/vub-tr-soft-21-05.pdf
 - title: Lost in Zero Space - An Empirical Comparison of 0.y.z Releases in Software Package Distributions
