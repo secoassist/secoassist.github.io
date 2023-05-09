@@ -1,0 +1,46 @@
+name: Deploy website to GitHub Pages
+
+on:
+  push:
+    branches: [sources]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Get Genja
+        run: |
+          wget https://raw.githubusercontent.com/AlexandreDecan/genja/master/genja.py
+          wget https://raw.githubusercontent.com/AlexandreDecan/genja/master/requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Build website
+        run: python genja.py
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./output
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v2
