@@ -12,7 +12,7 @@
 
 {% for group in biblio|groupby("year")|reverse %}
 <h3>{{ group.grouper }}</h3>
-  {% for kind in ['PhD Thesis', 'Journal', 'Conference', 'Workshop'] %}
+  {% for kind in ['PhD Thesis', 'Book', 'Chapter', 'Journal', 'Conference', 'Workshop'] %}
     {% for item in group.list|selectattr('kind', 'equalto', kind) %}
       {% if loop.first %}
       <h4>{{ kind }}</h4>
