@@ -1,3 +1,31 @@
+- title: On the Outdatedness of Workflows in the GitHub Actions Ecosystem
+  authors: Alexandre Decan, Tom Mens, Hassan Onsori Delicheh
+  year: 2023
+  kind: Journal
+  published: Journal of Systems and Software
+  link: https://doi.org/10.1016/j.jss.2023.111827
+  link2: https://decan.lexpage.net/files/JSS-2023.pdf
+- title: A Preliminary Study of GitHub Actions Workflow Changes
+  authors: Pooya Rostami Mazrae, Alexandre Decan, Tom Mens, Mairieli Wessel
+  year: 2023
+  kind: Workshop
+  published: Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE), Salerno, Italy, 2023
+  link: https://decan.lexpage.net/files/SATTOSE-2023c.pdf
+  link2: https://ceur-ws.org/Vol-3483/
+- title: Distinguishing Bots from Human Developers Based on their GitHub Activity Types
+  authors: Natarajan Chidambaram, Alexandre Decan, Tom Mens
+  year: 2023
+  kind: Workshop
+  published: Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE), Salerno, Italy, 2023
+  link: https://decan.lexpage.net/files/SATTOSE-2023b.pdf
+  link2: https://ceur-ws.org/Vol-3483/
+- title: A Preliminary Study of GitHub Actions Dependencies
+  authors: Hassan Onsori Delicheh, Alexandre Decan, Tom Mens
+  year: 2023
+  kind: Workshop
+  published: Seminar Series on Advanced Techniques & Tools for Software Evolution (SATToSE), Salerno, Italy, 2023
+  link: https://decan.lexpage.net/files/SATTOSE-2023a.pdf
+  link2: https://ceur-ws.org/Vol-3483/
 - title: "Software Ecosystems: Tooling and Analytics"
   authors: Tom Mens, Coen De Roover, Anthony Cleve
   kind: Book
